@@ -1,0 +1,274 @@
+{
+    "success": true,
+    "identifier": "The.adventures.of.Tintin.animated.series",
+    "totalFiles": 418,
+    "videoFiles": 18,
+    "availableFormats": {
+        "Thumbnail": 363,
+        "Archive BitTorrent": 1,
+        "Metadata": 4,
+        "Cinepack": 13,
+        "h.264": 13,
+        "Ogg Video": 13,
+        "h.264 IA": 5,
+        "MPEG4": 5,
+        "Item Tile": 1
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.01.The.Crab.With.The.Golden.Claws.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.01.the.crab.with.the.golden.claws",
+            "originalTitle": "The.adventures.of.tintin.1991.01.The.Crab.With.The.Golden.Claws.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.01.The.Crab.With.The.Golden.Claws.mp4",
+            "fileSize": "267423109"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.02.The.Secret.of.The.Unicorn-Red.Rackham%27s.Treasure.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.02.the.secret.of.the.unicorn-red.rackham's.treasure",
+            "originalTitle": "The.adventures.of.tintin.1991.02.The.Secret.of.The.Unicorn-Red.Rackham's.Treasure.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.02.The.Secret.of.The.Unicorn-Red.Rackham's.Treasure.mp4",
+            "fileSize": "370426262"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.03.The.Cigars.of.The.Pharaoh.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.03.the.cigars.of.the.pharaoh",
+            "originalTitle": "The.adventures.of.tintin.1991.03.The.Cigars.of.The.Pharaoh.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.03.The.Cigars.of.The.Pharaoh.mp4",
+            "fileSize": "264203990"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.04.The.Blue.Lotus.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.04.the.blue.lotus",
+            "originalTitle": "The.adventures.of.tintin.1991.04.The.Blue.Lotus.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.04.The.Blue.Lotus.mp4",
+            "fileSize": "267283013"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.05.The.Black.Island.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.05.the.black.island",
+            "originalTitle": "The.adventures.of.tintin.1991.05.The.Black.Island.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.05.The.Black.Island.mp4",
+            "fileSize": "264374731"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.06.The.Calculus.Affair.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.06.the.calculus.affair",
+            "originalTitle": "The.adventures.of.tintin.1991.06.The.Calculus.Affair.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.06.The.Calculus.Affair.mp4",
+            "fileSize": "262083636"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.07.The.Shooting.Star.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.07.the.shooting.star",
+            "originalTitle": "The.adventures.of.tintin.1991.07.The.Shooting.Star.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.07.The.Shooting.Star.mp4",
+            "fileSize": "145262765"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.08.The.Broken.Ear.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.08.the.broken.ear",
+            "originalTitle": "The.adventures.of.tintin.1991.08.The.Broken.Ear.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.08.The.Broken.Ear.mp4",
+            "fileSize": "267375312"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.09.King.Ottokars.Sceptre.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.09.king.ottokar's",
+            "originalTitle": "The.adventures.of.tintin.1991.09.King.Ottokar's.Sceptre",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.09.King.Ottokars.Sceptre.mp4",
+            "fileSize": "266331613"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.10.Tintin.in.Tibet.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.10.tintin.in.tibet",
+            "originalTitle": "The.adventures.of.tintin.1991.10.Tintin.in.Tibet.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.10.Tintin.in.Tibet.mp4",
+            "fileSize": "269618276"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.11.Tintin.and.The.Picaros.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.11.tintin.and.the.picaros",
+            "originalTitle": "The.adventures.of.tintin.1991.11.Tintin.and.The.Picaros.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.11.Tintin.and.The.Picaros.mp4",
+            "fileSize": "266034085"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.12.Land.of.The.Black.Gold.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.12.land.of.the.black.gold",
+            "originalTitle": "The.adventures.of.tintin.1991.12.Land.of.The.Black.Gold.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.12.Land.of.The.Black.Gold.mp4",
+            "fileSize": "264385596"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.13.Flight.714.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.13.flight.714",
+            "originalTitle": "The.adventures.of.tintin.1991.13.Flight.714.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The.adventures.of.tintin.1991.13.Flight.714.mp4",
+            "fileSize": "265504567"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.14.The.Red.Sea.Sharks.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.14.the.red.sea.sharks.ia",
+            "originalTitle": "The.adventures.of.tintin.1991.14.The.Red.Sea.Sharks.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The.adventures.of.tintin.1991.14.The.Red.Sea.Sharks.ia.mp4",
+            "fileSize": "362778477"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.15.The.Seven.Crystal.Balls-Prisoners.of.The.Sun.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.15.the.seven.crystal.balls-prisoners.of.the.sun.ia",
+            "originalTitle": "The.adventures.of.tintin.1991.15.The.Seven.Crystal.Balls-Prisoners.of.The.Sun.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The.adventures.of.tintin.1991.15.The.Seven.Crystal.Balls-Prisoners.of.The.Sun.ia.mp4",
+            "fileSize": "691244395"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.16.The.Castafiore.Emerald.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.16.the.castafiore.emerald.ia",
+            "originalTitle": "The.adventures.of.tintin.1991.16.The.Castafiore.Emerald.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The.adventures.of.tintin.1991.16.The.Castafiore.Emerald.ia.mp4",
+            "fileSize": "365276843"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.17.Destination.Moon-Explorers.on.The.Moon.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.17.destination.moon-explorers.on.the.moon.ia",
+            "originalTitle": "The.adventures.of.tintin.1991.17.Destination.Moon-Explorers.on.The.Moon.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The.adventures.of.tintin.1991.17.Destination.Moon-Explorers.on.The.Moon.ia.mp4",
+            "fileSize": "696689307"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/The.adventures.of.Tintin.animated.series\/The.adventures.of.tintin.1991.18.Tintin.In.America.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The.adventures.of.tintin.1991.18.tintin.in.america.ia",
+            "originalTitle": "The.adventures.of.tintin.1991.18.Tintin.In.America.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The.adventures.of.tintin.1991.18.Tintin.In.America.ia.mp4",
+            "fileSize": "194140423"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T02:11:40+00:00",
+    "api_version": "1.0"
+}

@@ -1,0 +1,234 @@
+import { useState, useEffect, useRef } from 'preact/hooks';
+import { SpinnerLoadingVideo } from '@components/Loaders/SpinnerLoadingVideo';
+import { Link } from '@components/Navigation/Link';
+import { useConfig } from '@/context/ConfigContext';
+
+/**
+ * VideoLoader Component - Preprocessing for Video Playback
+ * 
+ * Handles preprocessing of Internet Archive videos including:
+ * - Fetching playlist data from server API endpoints
+ * - Data validation and error handling
+ * - Loading states and user feedback
+ * - Passing clean, processed data to VideoPlayer component
+ * 
+ * This component separates data fetching/processing concerns from UI rendering,
+ * enabling better error handling, caching, and memory efficiency.
+ * 
+ * @param {Object} props - Component props
+ * @param {string} props.identifier - Internet Archive identifier
+ * @param {string} props.title - Show title for display during loading
+ * @param {function} props.onDataReady - Callback when data is ready: onDataReady(playlistData, metadata)
+ * @param {number} [props.timeoutMs=60000] - Timeout in milliseconds (default: 60 seconds)
+ * @param {number} [props.initialChunkSize=10] - Initial number of videos to load
+ * 
+ * @returns {import('preact').JSX.Element} The VideoLoader component
+ */
+
+export function VideoLoader({
+  identifier,
+  title,
+  onDataReady,
+  timeoutMs = 60000,  // 60 seconds for API calls
+  initialChunkSize = 10,
+}) {
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [timedOut, setTimedOut] = useState(false);
+  const [debugInfo, setDebugInfo] = useState(null);
+  const timeoutRef = useRef(null);
+  const abortControllerRef = useRef(null);
+  const apiBaseUrl = import.meta.env.VITE_API_BASE_URL;
+  const { server } = useConfig();
+
+  // Main data fetching logic
+  useEffect(() => {
+    if (!identifier) {
+      setError(new Error('No identifier provided'));
+      setLoading(false);
+      return;
+    }
+
+    const fetchPlaylistData = async () => {
+      setLoading(true);
+      setError(null);
+      setTimedOut(false);
+      
+      // Create abort controller for cleanup
+      abortControllerRef.current = new AbortController();
+      
+      // Set up timeout
+      timeoutRef.current = setTimeout(() => {
+        if (loading) {
+          setTimedOut(true);
+          setLoading(false);
+          setError(new Error('API timeout'));
+          if (abortControllerRef.current) {
+            abortControllerRef.current.abort();
+          }
+        }
+      }, timeoutMs);
+
+      try {
+        console.log(`🎬 VideoLoader: Starting data fetch for ${identifier}`);
+        
+        // Step 1: Fetch/process playlist data
+        console.log(`Base URL is: ${apiBaseUrl}`);
+        const fetchUrl = `${apiBaseUrl}/api/fetch_playlist.php?identifier=${encodeURIComponent(identifier)}`;
+        
+        console.log(`📡 VideoLoader: Calling fetch_playlist.php - ${fetchUrl}`);
+        const fetchResponse = await fetch(fetchUrl, {
+          signal: abortControllerRef.current.signal
+        });
+        
+        if (!fetchResponse.ok) {
+          throw new Error(`Fetch playlist failed: ${fetchResponse.status} ${fetchResponse.statusText}`);
+        }
+        
+        const fetchData = await fetchResponse.json();
+        console.log(`✅ VideoLoader: Fetch playlist response:`, fetchData);
+        
+        if (!fetchData.success) {
+          throw new Error(fetchData.error || 'Failed to fetch playlist data');
+        }
+
+        // Step 2: Get initial chunk of video data
+        const chunkUrl = `${apiBaseUrl}/api/get_playlist_chunk.php?identifier=${encodeURIComponent(identifier)}&from=1&to=${initialChunkSize}`;
+        
+        console.log(`📦 VideoLoader: Getting initial chunk - ${chunkUrl}`);
+        const chunkResponse = await fetch(chunkUrl, {
+          signal: abortControllerRef.current.signal
+        });
+        
+        if (!chunkResponse.ok) {
+          throw new Error(`Get chunk failed: ${chunkResponse.status} ${chunkResponse.statusText}`);
+        }
+        
+        const chunkData = await chunkResponse.json();
+        console.log(`✅ VideoLoader: Chunk response:`, chunkData);
+        
+        if (!chunkData.success) {
+          throw new Error(chunkData.error || 'Failed to get playlist chunk');
+        }
+
+        // Clear timeout on success
+        if (timeoutRef.current) {
+          clearTimeout(timeoutRef.current);
+        }
+
+        // Prepare metadata for VideoPlayer
+        const metadata = {
+          identifier,
+          title,
+          totalItems: chunkData.total?.items || 0,
+          totalFiles: fetchData.totalFiles || 0,
+          videoFiles: fetchData.videoFiles || 0,
+          availableFormats: fetchData.availableFormats || {},
+          cached: fetchData.cached || false,
+          cacheAge: chunkData.cache_age_hours || null,
+          apiVersion: fetchData.api_version || '1.0',
+          processedAt: fetchData.processed_at || new Date().toISOString(),
+          chunk: chunkData.chunk || {},
+          apiBaseUrl,
+        };
+
+        setDebugInfo(metadata);
+        setLoading(false);
+
+        console.log(`🎯 VideoLoader: Data ready! Calling onDataReady with ${chunkData.items?.length || 0} videos`);
+        
+        // Pass data to parent component
+        if (onDataReady) {
+          onDataReady(chunkData.playlist || [], metadata);
+        }
+
+      } catch (err) {
+        console.error('❌ VideoLoader: Error during data fetch:', err);
+        
+        if (timeoutRef.current) {
+          clearTimeout(timeoutRef.current);
+        }
+        
+        if (err.name === 'AbortError') {
+          console.log('🛑 VideoLoader: Request was aborted');
+          return;
+        }
+        
+        setError(err);
+        setLoading(false);
+        setDebugInfo({ 
+          identifier,
+          title,
+          error: err.message,
+          timestamp: new Date().toISOString()
+        });
+      }
+    };
+
+    fetchPlaylistData();
+
+    // Cleanup function
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+      if (abortControllerRef.current) {
+        abortControllerRef.current.abort();
+      }
+    };
+  }, [identifier, title, server?.url, timeoutMs, initialChunkSize, onDataReady]);
+
+  // Render loading state
+  if (loading && !error && !timedOut) {
+    return <SpinnerLoadingVideo title={title?.replace(/_/g, ' ') || 'Loading Videos'} />;
+  }
+
+  // Render timeout error
+  if (timedOut) {
+    return (
+      <div className="container text-center my-5">
+        <h2 className="text-danger mb-4">Timeout Error: playlist failed to load!</h2>
+        <p className="text-danger">
+          The server did not respond within {timeoutMs / 1000} seconds. Please <b>check your internet connection</b> and reload the page to try again. If you keep having problems, check out the <Link href="/help" className="primary-link">Help</Link> page for more troubleshooting tips.
+        </p>
+        <p className="my-4 opacity-75"><img src="/assets/clock.svg" width="65" alt="clock" title="Timeout Error!" /></p>
+        {debugInfo && (
+          <details className="mt-4 text-start">
+            <summary className="btn btn-sm btn-outline-secondary">Debug Info</summary>
+            <pre className="mt-2 p-3 bg-light border rounded text-start small">{JSON.stringify(debugInfo, null, 2)}</pre>
+          </details>
+        )}
+      </div>
+    );
+  }
+
+  // Render general error
+  if (error) {
+    return (
+      <div className="container text-center my-5">
+        <h2 className="text-danger mb-4">Error: playlist failed to load!</h2>
+        <p className="text-danger">
+          <strong>Error:</strong> {error.message}
+        </p>
+        <p className="text-secondary">
+          Please <b>reload the page</b> to try again. If you keep having problems, check out the <Link href="/help" className="primary-link">Help</Link> page for more troubleshooting tips.
+        </p>
+        <p className="my-4 opacity-75"><img src="/assets/error.svg" width="65" alt="error" title="Load Error!" /></p>
+        {debugInfo && (
+          <details className="mt-4 text-start">
+            <summary className="btn btn-sm btn-outline-secondary">Debug Info</summary>
+            <pre className="mt-2 p-3 bg-light border rounded text-start small">{JSON.stringify(debugInfo, null, 2)}</pre>
+          </details>
+        )}
+      </div>
+    );
+  }
+
+  // This should not normally be reached since onDataReady should handle the success case
+  return (
+    <div className="container text-center my-5">
+      <h3 className="text-warning">Data loaded successfully</h3>
+      <p>Video data was processed and should be ready for playback.</p>
+    </div>
+  );
+}

@@ -1,0 +1,2051 @@
+{
+    "success": true,
+    "identifier": "the-boondocks-complete",
+    "totalFiles": 1211,
+    "videoFiles": 144,
+    "availableFormats": {
+        "h.264": 88,
+        "Matroska": 68,
+        "h.264 IA": 57,
+        "MPEG4": 39,
+        "Image Container PDF": 5,
+        "chOCR": 5,
+        "DjVuTXT": 5,
+        "Djvu XML": 5,
+        "hOCR": 5,
+        "OCR Page Index": 5,
+        "OCR Search Text": 5,
+        "Single Page Processed JP2 ZIP": 5,
+        "Page Numbers JSON": 5,
+        "Scandata": 5,
+        "Additional Text PDF": 5,
+        "Text": 1,
+        "Windows Executable": 1,
+        "MPEG Audio": 1,
+        "Item Tile": 1,
+        "Thumbnail": 895,
+        "Archive BitTorrent": 1,
+        "Metadata": 4
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/A+Writer%27s+Perspective.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "A Writer's Perspective",
+            "originalTitle": "A Writer's Perspective.mp4",
+            "originalFormat": "h.264",
+            "fileName": "A Writer's Perspective.mp4",
+            "fileSize": "35124039"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Animatic+to+Screen+Comparisons+%28Season+3+-+Disc+1%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Animatic To Screen Comparisons (s3 - Disc 1)",
+            "originalTitle": "Animatic to Screen Comparisons (Season 3 - Disc 1).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Animatic to Screen Comparisons (Season 3 - Disc 1).mp4",
+            "fileSize": "25506071"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Animatic+to+Screen+Comparisons+%28Season+3+-+Disc+3%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Animatic To Screen Comparisons (s3 - Disc 3)",
+            "originalTitle": "Animatic to Screen Comparisons (Season 3 - Disc 3).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Animatic to Screen Comparisons (Season 3 - Disc 3).mp4",
+            "fileSize": "11643165"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Behind+the+Boondocks.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Behind The Boondocks",
+            "originalTitle": "Behind the Boondocks.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Behind the Boondocks.mp4",
+            "fileSize": "100385994"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Behind+the+Scenes+Featurette.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Behind The Scenes Featurette",
+            "originalTitle": "Behind the Scenes Featurette.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Behind the Scenes Featurette.mp4",
+            "fileSize": "121549876"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Boondocks+Beats.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Boondocks Beats",
+            "originalTitle": "Boondocks Beats.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Boondocks Beats.mp4",
+            "fileSize": "64041082"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Introduction+%26+Transition+into+Episode+1%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (introduction & Transition Into E1)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Introduction & Transition into Episode 1).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Introduction & Transition into Episode 1).mp4",
+            "fileSize": "16675498"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Transition+into+Episode+11%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (transition Into E11)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Transition into Episode 11).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Transition into Episode 11).mp4",
+            "fileSize": "7490889"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+1+%26+Transition+into+Episode+2%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E1 & Transition Into E2)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 1 & Transition into Episode 2).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 1 & Transition into Episode 2).mp4",
+            "fileSize": "12299127"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+11+%26+Transition+into+Episode+12%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E11 & Transition Into E12)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 11 & Transition into Episode 12).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 11 & Transition into Episode 12).mp4",
+            "fileSize": "11712197"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+12+%26+Transition+into+Episode+13%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E12 & Transition Into E13)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 12 & Transition into Episode 13).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 12 & Transition into Episode 13).mp4",
+            "fileSize": "15797100"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+13+%26+Transition+into+Episode+14%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E13 & Transition Into E14)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 13 & Transition into Episode 14).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 13 & Transition into Episode 14).mp4",
+            "fileSize": "12913600"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+14+%26+Transition+into+Episode+15%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E14 & Transition Into E15)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 14 & Transition into Episode 15).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 14 & Transition into Episode 15).mp4",
+            "fileSize": "14696669"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+15+%26+Conclusion%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E15 & Conclusion)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 15 & Conclusion).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 15 & Conclusion).mp4",
+            "fileSize": "9427555"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+2+%26+Transition+into+Episode+3%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E2 & Transition Into E3)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 2 & Transition into Episode 3).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 2 & Transition into Episode 3).mp4",
+            "fileSize": "11125712"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+3+%26+Transition+into+Episode+4%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E3 & Transition Into E4)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 3 & Transition into Episode 4).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 3 & Transition into Episode 4).mp4",
+            "fileSize": "10782011"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+4+%26+Transition+into+Episode+5%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E4 & Transition Into E5)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 4 & Transition into Episode 5).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 4 & Transition into Episode 5).mp4",
+            "fileSize": "12677093"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Cedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+5%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E5)",
+            "originalTitle": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 5).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 5).mp4",
+            "fileSize": "6520401"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Episodes%2FThe+Boondocks+-+S01E10+-+The+Itis.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Episodes\/the Boondocks - S01e10 - The Itis.ia",
+            "originalTitle": "Episodes\/The Boondocks - S01E10 - The Itis.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Episodes\/The Boondocks - S01E10 - The Itis.ia.mp4",
+            "fileSize": "117443545"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Introduction+to+The+Hunger+Strike.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Introduction To The Hunger Strike",
+            "originalTitle": "Introduction to The Hunger Strike.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Introduction to The Hunger Strike.mp4",
+            "fileSize": "12051564"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Introduction+to+The+Uncle+Ruckus+Reality+Show.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Introduction To The Uncle Ruckus Reality Show",
+            "originalTitle": "Introduction to The Uncle Ruckus Reality Show.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Introduction to The Uncle Ruckus Reality Show.mp4",
+            "fileSize": "8925524"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Minisodes+-+Married+with+Children.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Minisodes - Married With Children",
+            "originalTitle": "Minisodes - Married with Children.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Minisodes - Married with Children.mp4",
+            "fileSize": "30010008"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Minisodes+-+Spiderman.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Minisodes - Spiderman",
+            "originalTitle": "Minisodes - Spiderman.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Minisodes - Spiderman.mp4",
+            "fileSize": "29983639"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1+-+Deleted+Scene+1.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1 - Deleted Scene 1.ia",
+            "originalTitle": "Season 1 - Deleted Scene 1.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1 - Deleted Scene 1.ia.mp4",
+            "fileSize": "5992987"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1+-+Deleted+Scene+2.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1 - Deleted Scene 2.ia",
+            "originalTitle": "Season 1 - Deleted Scene 2.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1 - Deleted Scene 2.ia.mp4",
+            "fileSize": "4839727"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1+-+Deleted+Scene+3.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1 - Deleted Scene 3.ia",
+            "originalTitle": "Season 1 - Deleted Scene 3.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1 - Deleted Scene 3.ia.mp4",
+            "fileSize": "9876615"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1+Animatics.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1 Animatics",
+            "originalTitle": "Season 1 Animatics.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 1 Animatics.mp4",
+            "fileSize": "51227914"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E01+-+The+Garden+Party.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e01 - The Garden Party.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E01 - The Garden Party.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E01 - The Garden Party.ia.mp4",
+            "fileSize": "117851962"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E02+-+The+Trial+of+Robert+Kelly.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e02 - The Trial Of Robert Kelly.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E02 - The Trial of Robert Kelly.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E02 - The Trial of Robert Kelly.ia.mp4",
+            "fileSize": "125499133"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E03+-+Guess+Hoe%27s+Coming+to+Dinner.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e03 - Guess Hoe's Coming To Dinner.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E03 - Guess Hoe's Coming to Dinner.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E03 - Guess Hoe's Coming to Dinner.ia.mp4",
+            "fileSize": "128783839"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E04+-+Granddad%27s+Fight.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e04 - Granddad's Fight.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E04 - Granddad's Fight.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E04 - Granddad's Fight.ia.mp4",
+            "fileSize": "128182596"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E05+-+A+Date+With+the+Health+Inspector.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e05 - A Date With The Health Inspector.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E05 - A Date With the Health Inspector.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E05 - A Date With the Health Inspector.ia.mp4",
+            "fileSize": "123879487"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E06+-+The+Story+of+Gangstalicious.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e06 - The Story Of Gangstalicious.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E06 - The Story of Gangstalicious.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E06 - The Story of Gangstalicious.ia.mp4",
+            "fileSize": "131081303"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E07+-+A+Huey+Freeman+Christmas.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e07 - A Huey Freeman Christmas.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E07 - A Huey Freeman Christmas.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E07 - A Huey Freeman Christmas.ia.mp4",
+            "fileSize": "127519738"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E08+-+The+Real.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e08 - The Real.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E08 - The Real.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E08 - The Real.ia.mp4",
+            "fileSize": "128382960"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E09+-+Return+of+the+King.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e09 - Return Of The King.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E09 - Return of the King.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E09 - Return of the King.ia.mp4",
+            "fileSize": "131120851"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E11+-+Let%27s+Nab+Oprah.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e11 - Let's Nab Oprah.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E11 - Let's Nab Oprah.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E11 - Let's Nab Oprah.ia.mp4",
+            "fileSize": "132927155"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E12+-+Riley+Wuz+Here.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e12 - Riley Wuz Here.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E12 - Riley Wuz Here.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E12 - Riley Wuz Here.ia.mp4",
+            "fileSize": "133832766"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E13+-+Wingmen.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e13 - Wingmen.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E13 - Wingmen.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E13 - Wingmen.ia.mp4",
+            "fileSize": "128428669"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E14+-+The+Block+is+Hot.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e14 - The Block Is Hot.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E14 - The Block is Hot.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E14 - The Block is Hot.ia.mp4",
+            "fileSize": "130239112"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+1%2FThe+Boondocks+-+S01E15+-+The+Passion+of+Reverend+Ruckus.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S1\/the Boondocks - S01e15 - The Passion Of Reverend Ruckus.ia",
+            "originalTitle": "Season 1\/The Boondocks - S01E15 - The Passion of Reverend Ruckus.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 1\/The Boondocks - S01E15 - The Passion of Reverend Ruckus.ia.mp4",
+            "fileSize": "130963036"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E01+-+...Or+Die+Trying.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e01 - ...or Die Trying",
+            "originalTitle": "Season 2\/The Boondocks - S02E01 - ...Or Die Trying.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E01 - ...Or Die Trying.mp4",
+            "fileSize": "121716409"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E02+-+Tom%2C+Sarah%2C+and+Usher.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e02 - Tom, Sarah, And Usher",
+            "originalTitle": "Season 2\/The Boondocks - S02E02 - Tom, Sarah, and Usher.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E02 - Tom, Sarah, and Usher.mp4",
+            "fileSize": "124134172"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E03+-+Thank+You+for+Not+Snitching.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e03 - Thank You For Not Snitching",
+            "originalTitle": "Season 2\/The Boondocks - S02E03 - Thank You for Not Snitching.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E03 - Thank You for Not Snitching.mp4",
+            "fileSize": "113235129"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E04+-+Stinkmeaner+Strikes+Back.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e04 - Stinkmeaner Strikes Back",
+            "originalTitle": "Season 2\/The Boondocks - S02E04 - Stinkmeaner Strikes Back.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E04 - Stinkmeaner Strikes Back.mp4",
+            "fileSize": "123570891"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E05+-+The+Story+of+Thugnificent.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e05 - The Story Of Thugnificent",
+            "originalTitle": "Season 2\/The Boondocks - S02E05 - The Story of Thugnificent.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E05 - The Story of Thugnificent.mp4",
+            "fileSize": "128688823"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E06+-+Attack+of+the+Killer+Kung-Fu+Wolf+Bitch.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e06 - Attack Of The Killer Kung-fu Wolf Bitch",
+            "originalTitle": "Season 2\/The Boondocks - S02E06 - Attack of the Killer Kung-Fu Wolf Bitch.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E06 - Attack of the Killer Kung-Fu Wolf Bitch.mp4",
+            "fileSize": "126702367"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E07+-+Shinin%27.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e07 - Shinin'",
+            "originalTitle": "Season 2\/The Boondocks - S02E07 - Shinin'.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E07 - Shinin'.mp4",
+            "fileSize": "124338637"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E08+-+Ballin%27.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e08 - Ballin'",
+            "originalTitle": "Season 2\/The Boondocks - S02E08 - Ballin'.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E08 - Ballin'.mp4",
+            "fileSize": "120693396"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E09+-+Invasion+of+the+Katrinians.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e09 - Invasion Of The Katrinians",
+            "originalTitle": "Season 2\/The Boondocks - S02E09 - Invasion of the Katrinians.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E09 - Invasion of the Katrinians.mp4",
+            "fileSize": "126385333"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E10+-+Home+Alone.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e10 - Home Alone",
+            "originalTitle": "Season 2\/The Boondocks - S02E10 - Home Alone.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E10 - Home Alone.mp4",
+            "fileSize": "120818272"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E11+-+The+S+Word.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e11 - The S Word",
+            "originalTitle": "Season 2\/The Boondocks - S02E11 - The S Word.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E11 - The S Word.mp4",
+            "fileSize": "130672789"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E12+-+The+Story+of+Catcher+Freeman.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e12 - The Story Of Catcher Freeman",
+            "originalTitle": "Season 2\/The Boondocks - S02E12 - The Story of Catcher Freeman.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E12 - The Story of Catcher Freeman.mp4",
+            "fileSize": "124759392"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E13+-+The+Story+of+Gangstalicious+Part+2.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e13 - The Story Of Gangstalicious Part 2",
+            "originalTitle": "Season 2\/The Boondocks - S02E13 - The Story of Gangstalicious Part 2.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E13 - The Story of Gangstalicious Part 2.mp4",
+            "fileSize": "128218198"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E14+-+The+Hunger+Strike.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e14 - The Hunger Strike",
+            "originalTitle": "Season 2\/The Boondocks - S02E14 - The Hunger Strike.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E14 - The Hunger Strike.mp4",
+            "fileSize": "109992263"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+2%2FThe+Boondocks+-+S02E15+-+The+Uncle+Ruckus+Reality+Show.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S2\/the Boondocks - S02e15 - The Uncle Ruckus Reality Show",
+            "originalTitle": "Season 2\/The Boondocks - S02E15 - The Uncle Ruckus Reality Show.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 2\/The Boondocks - S02E15 - The Uncle Ruckus Reality Show.mp4",
+            "fileSize": "127403072"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E01+-+It%27s+a+Black+President%2C+Huey+Freeman.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e01 - It's A Black President, Huey Freeman",
+            "originalTitle": "Season 3\/The Boondocks - S03E01 - It's a Black President, Huey Freeman.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 3\/The Boondocks - S03E01 - It's a Black President, Huey Freeman.mp4",
+            "fileSize": "131810516"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E02+-+Bitches+to+Rags.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e02 - Bitches To Rags.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E02 - Bitches to Rags.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E02 - Bitches to Rags.ia.mp4",
+            "fileSize": "132714736"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E03+-+The+Red+Ball.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e03 - The Red Ball.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E03 - The Red Ball.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E03 - The Red Ball.ia.mp4",
+            "fileSize": "132661959"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E04+-+The+Story+of+Jimmy+Rebel.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e04 - The Story Of Jimmy Rebel",
+            "originalTitle": "Season 3\/The Boondocks - S03E04 - The Story of Jimmy Rebel.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Season 3\/The Boondocks - S03E04 - The Story of Jimmy Rebel.mp4",
+            "fileSize": "132209173"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E06+-+Smokin%27+With+Cigarettes.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e06 - Smokin' With Cigarettes.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E06 - Smokin' With Cigarettes.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E06 - Smokin' With Cigarettes.ia.mp4",
+            "fileSize": "128396000"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E07+-+The+Fundraiser.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e07 - The Fundraiser.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E07 - The Fundraiser.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E07 - The Fundraiser.ia.mp4",
+            "fileSize": "132956592"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E08+-+Pause.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e08 - Pause.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E08 - Pause.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E08 - Pause.ia.mp4",
+            "fileSize": "132012887"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E09+-+A+Date+With+the+Booty+Warrior.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e09 - A Date With The Booty Warrior.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E09 - A Date With the Booty Warrior.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E09 - A Date With the Booty Warrior.ia.mp4",
+            "fileSize": "133159819"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E10+-+The+Story+of+Lando+Freeman.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e10 - The Story Of Lando Freeman.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E10 - The Story of Lando Freeman.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E10 - The Story of Lando Freeman.ia.mp4",
+            "fileSize": "132908892"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E11+-+Lovely+Ebony+Brown.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e11 - Lovely Ebony Brown.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E11 - Lovely Ebony Brown.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E11 - Lovely Ebony Brown.ia.mp4",
+            "fileSize": "132004948"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E14+-+The+Color+Ruckus.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e14 - The Color Ruckus.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E14 - The Color Ruckus.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E14 - The Color Ruckus.ia.mp4",
+            "fileSize": "132120017"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+3%2FThe+Boondocks+-+S03E15+-+It%27s+Goin+Down.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S3\/the Boondocks - S03e15 - It's Goin Down.ia",
+            "originalTitle": "Season 3\/The Boondocks - S03E15 - It's Goin Down.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 3\/The Boondocks - S03E15 - It's Goin Down.ia.mp4",
+            "fileSize": "133443748"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E01+-+Pretty+Boy+Flizzy.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e01 - Pretty Boy Flizzy.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E01 - Pretty Boy Flizzy.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E01 - Pretty Boy Flizzy.ia.mp4",
+            "fileSize": "132892663"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E02+-+Good+Times.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e02 - Good Times.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E02 - Good Times.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E02 - Good Times.ia.mp4",
+            "fileSize": "131890827"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E03+-+Breaking+Granddad.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e03 - Breaking Granddad.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E03 - Breaking Granddad.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E03 - Breaking Granddad.ia.mp4",
+            "fileSize": "132798819"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E04+-+Early+Bird+Special.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e04 - Early Bird Special.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E04 - Early Bird Special.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E04 - Early Bird Special.ia.mp4",
+            "fileSize": "131640355"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E05+-+Freedom+Ride+or+Die.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e05 - Freedom Ride Or Die.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E05 - Freedom Ride or Die.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E05 - Freedom Ride or Die.ia.mp4",
+            "fileSize": "133494176"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E06+-+Granddad+Dates+a+Kardashian.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e06 - Granddad Dates A Kardashian.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E06 - Granddad Dates a Kardashian.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E06 - Granddad Dates a Kardashian.ia.mp4",
+            "fileSize": "131813452"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E07+-+Freedomland.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e07 - Freedomland.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E07 - Freedomland.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E07 - Freedomland.ia.mp4",
+            "fileSize": "132280114"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E08+-+I+Dream+of+Siri.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e08 - I Dream Of Siri.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E08 - I Dream of Siri.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E08 - I Dream of Siri.ia.mp4",
+            "fileSize": "130966350"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E09+-+Stinkmeaner+Begun+the+Clone+War+Has.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e09 - Stinkmeaner Begun The Clone War Has.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E09 - Stinkmeaner Begun the Clone War Has.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E09 - Stinkmeaner Begun the Clone War Has.ia.mp4",
+            "fileSize": "132430889"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Season+4%2FThe+Boondocks+-+S04E10+-+The+New+Black.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "S4\/the Boondocks - S04e10 - The New Black.ia",
+            "originalTitle": "Season 4\/The Boondocks - S04E10 - The New Black.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Season 4\/The Boondocks - S04E10 - The New Black.ia.mp4",
+            "fileSize": "131725182"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FA+Writer%27s+Perspective.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/a Writer's Perspective",
+            "originalTitle": "Special Features\/A Writer's Perspective.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/A Writer's Perspective.mp4",
+            "fileSize": "35125982"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FAnimatic+to+Screen+Comparisons+%28Season+3+-+Disc+1%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/animatic To Screen Comparisons (s3 - Disc 1)",
+            "originalTitle": "Special Features\/Animatic to Screen Comparisons (Season 3 - Disc 1).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Animatic to Screen Comparisons (Season 3 - Disc 1).mp4",
+            "fileSize": "25504170"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FAnimatic+to+Screen+Comparisons+%28Season+3+-+Disc+3%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/animatic To Screen Comparisons (s3 - Disc 3)",
+            "originalTitle": "Special Features\/Animatic to Screen Comparisons (Season 3 - Disc 3).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Animatic to Screen Comparisons (Season 3 - Disc 3).mp4",
+            "fileSize": "11648113"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FBehind+the+Boondocks.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/behind The Boondocks",
+            "originalTitle": "Special Features\/Behind the Boondocks.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Behind the Boondocks.mp4",
+            "fileSize": "100386843"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FBehind+the+Scenes+Featurette.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/behind The Scenes Featurette",
+            "originalTitle": "Special Features\/Behind the Scenes Featurette.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Behind the Scenes Featurette.mp4",
+            "fileSize": "121548050"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FBoondocks+Beats.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/boondocks Beats",
+            "originalTitle": "Special Features\/Boondocks Beats.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Boondocks Beats.mp4",
+            "fileSize": "64042345"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Introduction+%26+Transition+into+Episode+1%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (introduction & Transition Into E1)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Introduction & Transition into Episode 1).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Introduction & Transition into Episode 1).mp4",
+            "fileSize": "16674186"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Transition+into+Episode+11%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (transition Into E11)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Transition into Episode 11).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Transition into Episode 11).mp4",
+            "fileSize": "7490982"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+1+%26+Transition+into+Episode+2%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E1 & Transition Into E2)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 1 & Transition into Episode 2).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 1 & Transition into Episode 2).mp4",
+            "fileSize": "12298451"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+11+%26+Transition+into+Episode+12%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E11 & Transition Into E12)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 11 & Transition into Episode 12).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 11 & Transition into Episode 12).mp4",
+            "fileSize": "11711865"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+12+%26+Transition+into+Episode+13%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E12 & Transition Into E13)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 12 & Transition into Episode 13).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 12 & Transition into Episode 13).mp4",
+            "fileSize": "15799592"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+13+%26+Transition+into+Episode+14%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E13 & Transition Into E14)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 13 & Transition into Episode 14).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 13 & Transition into Episode 14).mp4",
+            "fileSize": "12912900"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+14+%26+Transition+into+Episode+15%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E14 & Transition Into E15)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 14 & Transition into Episode 15).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 14 & Transition into Episode 15).mp4",
+            "fileSize": "14696292"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+15+%26+Conclusion%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E15 & Conclusion)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 15 & Conclusion).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 15 & Conclusion).mp4",
+            "fileSize": "9427722"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+2+%26+Transition+into+Episode+3%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E2 & Transition Into E3)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 2 & Transition into Episode 3).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 2 & Transition into Episode 3).mp4",
+            "fileSize": "11125666"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+3+%26+Transition+into+Episode+4%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E3 & Transition Into E4)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 3 & Transition into Episode 4).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 3 & Transition into Episode 4).mp4",
+            "fileSize": "10782160"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+4+%26+Transition+into+Episode+5%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E4 & Transition Into E5)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 4 & Transition into Episode 5).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 4 & Transition into Episode 5).mp4",
+            "fileSize": "12676975"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FCedric+Yarbrough+%26+Gary+Anthony+Williams+Host+Season+3+%28Wrap-up+Episode+5%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/cedric Yarbrough & Gary Anthony Williams Host S3 (wrap-up E5)",
+            "originalTitle": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 5).mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Cedric Yarbrough & Gary Anthony Williams Host Season 3 (Wrap-up Episode 5).mp4",
+            "fileSize": "6521392"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FIntroduction+to+The+Hunger+Strike.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/introduction To The Hunger Strike",
+            "originalTitle": "Special Features\/Introduction to The Hunger Strike.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Introduction to The Hunger Strike.mp4",
+            "fileSize": "12052147"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FIntroduction+to+The+Uncle+Ruckus+Reality+Show.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/introduction To The Uncle Ruckus Reality Show",
+            "originalTitle": "Special Features\/Introduction to The Uncle Ruckus Reality Show.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Introduction to The Uncle Ruckus Reality Show.mp4",
+            "fileSize": "8924925"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FLando+Freeman+Takes+it+to+the+Streets.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/lando Freeman Takes It To The Streets",
+            "originalTitle": "Special Features\/Lando Freeman Takes it to the Streets.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Lando Freeman Takes it to the Streets.mp4",
+            "fileSize": "19091179"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FMinisodes+-+Married+with+Children.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/minisodes - Married With Children",
+            "originalTitle": "Special Features\/Minisodes - Married with Children.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Minisodes - Married with Children.mp4",
+            "fileSize": "30010784"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FMinisodes+-+Spiderman.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/minisodes - Spiderman",
+            "originalTitle": "Special Features\/Minisodes - Spiderman.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Minisodes - Spiderman.mp4",
+            "fileSize": "29982399"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FSeason+1+-+Deleted+Scene+1.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/s1 - Deleted Scene 1.ia",
+            "originalTitle": "Special Features\/Season 1 - Deleted Scene 1.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Special Features\/Season 1 - Deleted Scene 1.ia.mp4",
+            "fileSize": "5991834"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FSeason+1+-+Deleted+Scene+2.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/s1 - Deleted Scene 2.ia",
+            "originalTitle": "Special Features\/Season 1 - Deleted Scene 2.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Special Features\/Season 1 - Deleted Scene 2.ia.mp4",
+            "fileSize": "4836788"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FSeason+1+-+Deleted+Scene+3.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/s1 - Deleted Scene 3.ia",
+            "originalTitle": "Special Features\/Season 1 - Deleted Scene 3.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Special Features\/Season 1 - Deleted Scene 3.ia.mp4",
+            "fileSize": "9876315"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FSeason+1+Animatics.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/s1 Animatics",
+            "originalTitle": "Special Features\/Season 1 Animatics.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Season 1 Animatics.mp4",
+            "fileSize": "51219164"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+Cedric+Yarbrough.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - Cedric Yarbrough",
+            "originalTitle": "Special Features\/The Cast - Cedric Yarbrough.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - Cedric Yarbrough.mp4",
+            "fileSize": "24384559"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+Gabby+Soleil.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - Gabby Soleil",
+            "originalTitle": "Special Features\/The Cast - Gabby Soleil.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - Gabby Soleil.mp4",
+            "fileSize": "22999003"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+Gary+Anthony+Williams.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - Gary Anthony Williams",
+            "originalTitle": "Special Features\/The Cast - Gary Anthony Williams.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - Gary Anthony Williams.mp4",
+            "fileSize": "28872078"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+Jill+Talley.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - Jill Talley",
+            "originalTitle": "Special Features\/The Cast - Jill Talley.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - Jill Talley.mp4",
+            "fileSize": "13209060"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+John+Witherspoon.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - John Witherspoon",
+            "originalTitle": "Special Features\/The Cast - John Witherspoon.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - John Witherspoon.mp4",
+            "fileSize": "23576453"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Cast+-+Regina+King.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Cast - Regina King",
+            "originalTitle": "Special Features\/The Cast - Regina King.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Cast - Regina King.mp4",
+            "fileSize": "19571339"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Garden+Party+-+Crew+Audio+%26+Video+Commentary.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Garden Party - Crew Audio & Video Commentary",
+            "originalTitle": "Special Features\/The Garden Party - Crew Audio & Video Commentary.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Garden Party - Crew Audio & Video Commentary.mp4",
+            "fileSize": "120079196"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FThe+Trial+of+Robert+Kelly+-+Crew+Audio+%26+Video+Commentary.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/the Trial Of Robert Kelly - Crew Audio & Video Commentary",
+            "originalTitle": "Special Features\/The Trial of Robert Kelly - Crew Audio & Video Commentary.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/The Trial of Robert Kelly - Crew Audio & Video Commentary.mp4",
+            "fileSize": "124694049"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FTrouble+in+Woodcrest%253F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/trouble In Woodcrest%3f",
+            "originalTitle": "Special Features\/Trouble in Woodcrest%3F.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Trouble in Woodcrest%3F.mp4",
+            "fileSize": "26293941"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FTrouble+in+Woodcrest%3F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/trouble In Woodcrest?",
+            "originalTitle": "Special Features\/Trouble in Woodcrest?.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/Trouble in Woodcrest?.mp4",
+            "fileSize": "26294966"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FUnaired+Promos.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/unaired Promos.ia",
+            "originalTitle": "Special Features\/Unaired Promos.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Special Features\/Unaired Promos.ia.mp4",
+            "fileSize": "21524783"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FWhat+Niggas%253F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/what Niggas%3f",
+            "originalTitle": "Special Features\/What Niggas%3F.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/What Niggas%3F.mp4",
+            "fileSize": "6968479"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Special+Features%2FWhat+Niggas%3F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Special Features\/what Niggas?",
+            "originalTitle": "Special Features\/What Niggas?.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Special Features\/What Niggas?.mp4",
+            "fileSize": "6968281"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E01+-+The+Garden+Party.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e01 - The Garden Party.ia",
+            "originalTitle": "The Boondocks - S01E01 - The Garden Party.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E01 - The Garden Party.ia.mp4",
+            "fileSize": "117633842"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E02+-+The+Trial+of+Robert+Kelly.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e02 - The Trial Of Robert Kelly.ia",
+            "originalTitle": "The Boondocks - S01E02 - The Trial of Robert Kelly.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E02 - The Trial of Robert Kelly.ia.mp4",
+            "fileSize": "125373431"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E03+-+Guess+Hoe%27s+Coming+to+Dinner.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e03 - Guess Hoe's Coming To Dinner.ia",
+            "originalTitle": "The Boondocks - S01E03 - Guess Hoe's Coming to Dinner.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E03 - Guess Hoe's Coming to Dinner.ia.mp4",
+            "fileSize": "128682545"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E04+-+Granddad%27s+Fight.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e04 - Granddad's Fight.ia",
+            "originalTitle": "The Boondocks - S01E04 - Granddad's Fight.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E04 - Granddad's Fight.ia.mp4",
+            "fileSize": "128059450"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E05+-+A+Date+With+the+Health+Inspector.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e05 - A Date With The Health Inspector.ia",
+            "originalTitle": "The Boondocks - S01E05 - A Date With the Health Inspector.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E05 - A Date With the Health Inspector.ia.mp4",
+            "fileSize": "123810637"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E06+-+The+Story+of+Gangstalicious.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e06 - The Story Of Gangstalicious.ia",
+            "originalTitle": "The Boondocks - S01E06 - The Story of Gangstalicious.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E06 - The Story of Gangstalicious.ia.mp4",
+            "fileSize": "130986373"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E07+-+A+Huey+Freeman+Christmas.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e07 - A Huey Freeman Christmas.ia",
+            "originalTitle": "The Boondocks - S01E07 - A Huey Freeman Christmas.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E07 - A Huey Freeman Christmas.ia.mp4",
+            "fileSize": "127414198"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E08+-+The+Real.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e08 - The Real.ia",
+            "originalTitle": "The Boondocks - S01E08 - The Real.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E08 - The Real.ia.mp4",
+            "fileSize": "128215798"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E09+-+Return+of+the+King.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e09 - Return Of The King.ia",
+            "originalTitle": "The Boondocks - S01E09 - Return of the King.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E09 - Return of the King.ia.mp4",
+            "fileSize": "131005208"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E11+-+Let%27s+Nab+Oprah.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e11 - Let's Nab Oprah.ia",
+            "originalTitle": "The Boondocks - S01E11 - Let's Nab Oprah.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E11 - Let's Nab Oprah.ia.mp4",
+            "fileSize": "132757931"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E12+-+Riley+Wuz+Here.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e12 - Riley Wuz Here.ia",
+            "originalTitle": "The Boondocks - S01E12 - Riley Wuz Here.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E12 - Riley Wuz Here.ia.mp4",
+            "fileSize": "133789193"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E13+-+Wingmen.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e13 - Wingmen.ia",
+            "originalTitle": "The Boondocks - S01E13 - Wingmen.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E13 - Wingmen.ia.mp4",
+            "fileSize": "128231882"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E14+-+The+Block+is+Hot.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e14 - The Block Is Hot.ia",
+            "originalTitle": "The Boondocks - S01E14 - The Block is Hot.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E14 - The Block is Hot.ia.mp4",
+            "fileSize": "130093841"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S01E15+-+The+Passion+of+Reverend+Ruckus.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S01e15 - The Passion Of Reverend Ruckus.ia",
+            "originalTitle": "The Boondocks - S01E15 - The Passion of Reverend Ruckus.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "The Boondocks - S01E15 - The Passion of Reverend Ruckus.ia.mp4",
+            "fileSize": "130758205"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Boondocks+-+S03E01+-+It%27s+a+Black+President%2C+Huey+Freeman.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Boondocks - S03e01 - It's A Black President, Huey Freeman",
+            "originalTitle": "The Boondocks - S03E01 - It's a Black President, Huey Freeman.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Boondocks - S03E01 - It's a Black President, Huey Freeman.mp4",
+            "fileSize": "131818449"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+Cedric+Yarbrough.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - Cedric Yarbrough",
+            "originalTitle": "The Cast - Cedric Yarbrough.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - Cedric Yarbrough.mp4",
+            "fileSize": "24385146"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+Gabby+Soleil.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - Gabby Soleil",
+            "originalTitle": "The Cast - Gabby Soleil.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - Gabby Soleil.mp4",
+            "fileSize": "22999596"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+Gary+Anthony+Williams.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - Gary Anthony Williams",
+            "originalTitle": "The Cast - Gary Anthony Williams.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - Gary Anthony Williams.mp4",
+            "fileSize": "28872542"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+Jill+Talley.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - Jill Talley",
+            "originalTitle": "The Cast - Jill Talley.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - Jill Talley.mp4",
+            "fileSize": "13209214"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+John+Witherspoon.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - John Witherspoon",
+            "originalTitle": "The Cast - John Witherspoon.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - John Witherspoon.mp4",
+            "fileSize": "23576975"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Cast+-+Regina+King.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Cast - Regina King",
+            "originalTitle": "The Cast - Regina King.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Cast - Regina King.mp4",
+            "fileSize": "19570440"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Garden+Party+-+Crew+Audio+%26+Video+Commentary.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Garden Party - Crew Audio & Video Commentary",
+            "originalTitle": "The Garden Party - Crew Audio & Video Commentary.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Garden Party - Crew Audio & Video Commentary.mp4",
+            "fileSize": "120026671"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/The+Trial+of+Robert+Kelly+-+Crew+Audio+%26+Video+Commentary.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "The Trial Of Robert Kelly - Crew Audio & Video Commentary",
+            "originalTitle": "The Trial of Robert Kelly - Crew Audio & Video Commentary.mp4",
+            "originalFormat": "h.264",
+            "fileName": "The Trial of Robert Kelly - Crew Audio & Video Commentary.mp4",
+            "fileSize": "124693691"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Trouble+in+Woodcrest%253F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Trouble In Woodcrest%3f",
+            "originalTitle": "Trouble in Woodcrest%3F.mp4",
+            "originalFormat": "h.264",
+            "fileName": "Trouble in Woodcrest%3F.mp4",
+            "fileSize": "26294101"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/Unaired+Promos.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Unaired Promos.ia",
+            "originalTitle": "Unaired Promos.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Unaired Promos.ia.mp4",
+            "fileSize": "21523860"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/the-boondocks-complete\/What+Niggas%253F.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "What Niggas%3f",
+            "originalTitle": "What Niggas%3F.mp4",
+            "originalFormat": "h.264",
+            "fileName": "What Niggas%3F.mp4",
+            "fileSize": "6967946"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T02:12:10+00:00",
+    "api_version": "1.0"
+}

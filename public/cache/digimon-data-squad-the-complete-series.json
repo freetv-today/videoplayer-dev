@@ -1,0 +1,690 @@
+{
+    "success": true,
+    "identifier": "digimon-data-squad-the-complete-series",
+    "totalFiles": 342,
+    "videoFiles": 48,
+    "availableFormats": {
+        "MPEG4": 48,
+        "Item Tile": 1,
+        "Thumbnail": 288,
+        "Archive BitTorrent": 1,
+        "Metadata": 4
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F01+-+There+are+Monsters+Among+Us%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "01 - There Are Monsters Among Us!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/01 - There are Monsters Among Us!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/01 - There are Monsters Among Us!.mp4",
+            "fileSize": "49726461"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F02+-+Marcus%27+Inner+Strength%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "02 - Marcus' Inner Strength!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/02 - Marcus' Inner Strength!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/02 - Marcus' Inner Strength!.mp4",
+            "fileSize": "54157683"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F03+-+The+Return+of+Thomas%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "03 - The Return Of Thomas!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/03 - The Return of Thomas!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/03 - The Return of Thomas!.mp4",
+            "fileSize": "54691833"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F04+-+The+New+Team+of+Markus+and+Thomas%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "04 - The New Team Of Markus And Thomas!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/04 - The New Team of Markus and Thomas!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/04 - The New Team of Markus and Thomas!.mp4",
+            "fileSize": "49413634"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F05+-+Digital+World%2C+Here+We+Come%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "05 - Digital World, Here We Come!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/05 - Digital World, Here We Come!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/05 - Digital World, Here We Come!.mp4",
+            "fileSize": "56631551"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F06+-+The+Ultimate+Team+No+More.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "06 - The Ultimate Team No More",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/06 - The Ultimate Team No More.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/06 - The Ultimate Team No More.mp4",
+            "fileSize": "50079783"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F07+-+A+Birthday+Kristy+Will+Never+Forget%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "07 - A Birthday Kristy Will Never Forget!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/07 - A Birthday Kristy Will Never Forget!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/07 - A Birthday Kristy Will Never Forget!.mp4",
+            "fileSize": "48202763"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F08+-+The+Singer%27s+Secret.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "08 - The Singer's Secret",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/08 - The Singer's Secret.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/08 - The Singer's Secret.mp4",
+            "fileSize": "52262482"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F09+-+Never+Meet+Your+Heroes.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "09 - Never Meet Your Heroes",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/09 - Never Meet Your Heroes.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/09 - Never Meet Your Heroes.mp4",
+            "fileSize": "45949083"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F10+-+Curse+This+Curse+-+Markus%27+Bad+Day.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "10 - Curse This Curse - Markus' Bad Day",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/10 - Curse This Curse - Markus' Bad Day.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/10 - Curse This Curse - Markus' Bad Day.mp4",
+            "fileSize": "49784839"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F11+-+The+Vile+of+Vilemon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "11 - The Vile Of Vilemon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/11 - The Vile of Vilemon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/11 - The Vile of Vilemon!.mp4",
+            "fileSize": "52122695"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F12+-+The+Digi-Egg+That+Fell+to+Earth.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "12 - The Digi-egg That Fell To Earth",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/12 - The Digi-Egg That Fell to Earth.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/12 - The Digi-Egg That Fell to Earth.mp4",
+            "fileSize": "55036414"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F13+-+The+Rise+of+RizeGreymon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "13 - The Rise Of Rizegreymon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/13 - The Rise of RizeGreymon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/13 - The Rise of RizeGreymon!.mp4",
+            "fileSize": "63682608"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F14+-+The+Wild+Boy+of+the+Digital+World.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "14 - The Wild Boy Of The Digital World",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/14 - The Wild Boy of the Digital World.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/14 - The Wild Boy of the Digital World.mp4",
+            "fileSize": "65138983"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F15+-+The+Gorge+of+Deception%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "15 - The Gorge Of Deception!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/15 - The Gorge of Deception!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/15 - The Gorge of Deception!.mp4",
+            "fileSize": "68583348"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F16+-+Falcomon+-+Friend+or+Foe.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "16 - Falcomon - Friend Or Foe",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/16 - Falcomon - Friend or Foe.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/16 - Falcomon - Friend or Foe.mp4",
+            "fileSize": "46734252"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F17+-+Yoshi%27s+Biggest+Battle+-+The+One+with+Herself.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "17 - Yoshi's Biggest Battle - The One With Herself",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/17 - Yoshi's Biggest Battle - The One with Herself.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/17 - Yoshi's Biggest Battle - The One with Herself.mp4",
+            "fileSize": "52357038"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F18+-+The+Clash+With+Merukimon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "18 - The Clash With Merukimon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/18 - The Clash With Merukimon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/18 - The Clash With Merukimon!.mp4",
+            "fileSize": "56503760"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F19+-+The+Truth+About+Keenan.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "19 - The Truth About Keenan",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/19 - The Truth About Keenan.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/19 - The Truth About Keenan.mp4",
+            "fileSize": "74826749"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F20+-+The+Crier+Family+Reunion.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "20 - The Crier Family Reunion",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/20 - The Crier Family Reunion.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/20 - The Crier Family Reunion.mp4",
+            "fileSize": "45487425"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F21+-+The+Digimon+Army+Makes+Its+Move.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "21 - The Digimon Army Makes Its Move",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/21 - The Digimon Army Makes Its Move.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/21 - The Digimon Army Makes Its Move.mp4",
+            "fileSize": "50608666"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F22+-+The+Wrath+of+SaberLeomon.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "22 - The Wrath Of Saberleomon",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/22 - The Wrath of SaberLeomon.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/22 - The Wrath of SaberLeomon.mp4",
+            "fileSize": "45001028"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F23+-+One+More+Digital+Dive%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "23 - One More Digital Dive!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/23 - One More Digital Dive!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/23 - One More Digital Dive!.mp4",
+            "fileSize": "66070456"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F24+-+The+Past+Revealed.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "24 - The Past Revealed",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/24 - The Past Revealed.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/24 - The Past Revealed.mp4",
+            "fileSize": "67817329"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F25+-+Kurata%27s+Revenge%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "25 - Kurata's Revenge!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/25 - Kurata's Revenge!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/25 - Kurata's Revenge!.mp4",
+            "fileSize": "70558240"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F26+-+Memory+is+the+First+Thing+to+Go%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "26 - Memory Is The First Thing To Go!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/26 - Memory is the First Thing to Go!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/26 - Memory is the First Thing to Go!.mp4",
+            "fileSize": "48594781"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F27+-+The+Beginning+of+the+End.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "27 - The Beginning Of The End",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/27 - The Beginning of the End.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/27 - The Beginning of the End.mp4",
+            "fileSize": "58086462"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F28+-+Digivice+Meltdown.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "28 - Digivice Meltdown",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/28 - Digivice Meltdown.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/28 - Digivice Meltdown.mp4",
+            "fileSize": "59687226"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F29+-+How+To+Fix+A+Broken+Digivice.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "29 - How To Fix A Broken Digivice",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/29 - How To Fix A Broken Digivice.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/29 - How To Fix A Broken Digivice.mp4",
+            "fileSize": "50810010"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F30+-+Journey+To+The+Sacred+City.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "30 - Journey To The Sacred City",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/30 - Journey To The Sacred City.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/30 - Journey To The Sacred City.mp4",
+            "fileSize": "44284660"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F31+-+Showdown+Beetween+Geniuses+-+Thomas+vs.+Nanami%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "31 - Showdown Beetween Geniuses - Thomas Vs. Nanami!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/31 - Showdown Beetween Geniuses - Thomas vs. Nanami!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/31 - Showdown Beetween Geniuses - Thomas vs. Nanami!.mp4",
+            "fileSize": "43165849"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F32+-+The+Sacred+City%27s+Last+Stand%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "32 - The Sacred City's Last Stand!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/32 - The Sacred City's Last Stand!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/32 - The Sacred City's Last Stand!.mp4",
+            "fileSize": "55610192"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F33+-+The+Final+Bio-Hybird+Battle.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "33 - The Final Bio-hybird Battle",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/33 - The Final Bio-Hybird Battle.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/33 - The Final Bio-Hybird Battle.mp4",
+            "fileSize": "62996310"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F34+-+The+Norstein+Family+Secret.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "34 - The Norstein Family Secret",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/34 - The Norstein Family Secret.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/34 - The Norstein Family Secret.mp4",
+            "fileSize": "46690846"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F35+-+Kurata%27s+Real+Plan.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "35 - Kurata's Real Plan",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/35 - Kurata's Real Plan.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/35 - Kurata's Real Plan.mp4",
+            "fileSize": "63003157"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F36+-+Awaken+Belphemon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "36 - Awaken Belphemon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/36 - Awaken Belphemon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/36 - Awaken Belphemon!.mp4",
+            "fileSize": "45607643"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F37+-+The+Battle+With+Belphemon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "37 - The Battle With Belphemon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/37 - The Battle With Belphemon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/37 - The Battle With Belphemon!.mp4",
+            "fileSize": "48401842"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F38+-+The+Power+of+The+Burst+Mode%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "38 - The Power Of The Burst Mode!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/38 - The Power of The Burst Mode!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/38 - The Power of The Burst Mode!.mp4",
+            "fileSize": "72309674"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F39+-+King+Drasil%27s+Fatal+Decision%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "39 - King Drasil's Fatal Decision!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/39 - King Drasil's Fatal Decision!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/39 - King Drasil's Fatal Decision!.mp4",
+            "fileSize": "59338797"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F40+-+The+Royal+Knights+Assemble.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "40 - The Royal Knights Assemble",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/40 - The Royal Knights Assemble.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/40 - The Royal Knights Assemble.mp4",
+            "fileSize": "55561000"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F41+-+Father+and+Son+Destiny.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "41 - Father And Son Destiny",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/41 - Father and Son Destiny.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/41 - Father and Son Destiny.mp4",
+            "fileSize": "53127000"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F42+-+Thomas+Bursts+On+The+Scene%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "42 - Thomas Bursts On The Scene!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/42 - Thomas Bursts On The Scene!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/42 - Thomas Bursts On The Scene!.mp4",
+            "fileSize": "47013948"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F43+-+Justice+Equals+Power%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "43 - Justice Equals Power!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/43 - Justice Equals Power!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/43 - Justice Equals Power!.mp4",
+            "fileSize": "48236687"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F44+-+Human+Potential%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "44 - Human Potential!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/44 - Human Potential!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/44 - Human Potential!.mp4",
+            "fileSize": "50950684"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F45+-+A+Family+Quarrel.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "45 - A Family Quarrel",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/45 - A Family Quarrel.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/45 - A Family Quarrel.mp4",
+            "fileSize": "49045983"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F46+-+The+Truth+About+BanchoLeomon%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "46 - The Truth About Bancholeomon!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/46 - The Truth About BanchoLeomon!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/46 - The Truth About BanchoLeomon!.mp4",
+            "fileSize": "45571137"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F47+-+The+Data+Squad%27s+Final+Battle%21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "47 - The Data Squad's Final Battle!",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/47 - The Data Squad's Final Battle!.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/47 - The Data Squad's Final Battle!.mp4",
+            "fileSize": "59808491"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/digimon-data-squad-the-complete-series\/Digimon+Data+Squad+-+The+Complete+Series%2F48+-+The+Ultimate+Farewell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "48 - The Ultimate Farewell",
+            "originalTitle": "Digimon Data Squad - The Complete Series\/48 - The Ultimate Farewell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Digimon Data Squad - The Complete Series\/48 - The Ultimate Farewell.mp4",
+            "fileSize": "46363193"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T03:16:13+00:00",
+    "api_version": "1.0"
+}

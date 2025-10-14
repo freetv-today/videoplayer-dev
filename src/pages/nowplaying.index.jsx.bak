@@ -1,0 +1,148 @@
+import { useEffect, useState } from 'preact/hooks';
+import { useLocalStorage } from '@hooks/useLocalStorage';
+import { NavbarVideoPlayback } from '@components/Navigation/NavbarVideoPlayback';
+import { VideoLoader } from '@components/Loaders/VideoLoader';
+import VideoPlayerUI from '@components/UI/VideoPlayerUI';
+import { Link } from '@components/Navigation/Link';
+import { useDebugLog } from '@hooks/useDebugLog';
+import { showVidNavBtnsSignal } from '@signals/showVidNavBtns';
+import { logShowEnd } from '@/utils';
+
+/**
+ * @typedef {Object} PlaylistMetadata
+ * @property {string} [apiBaseUrl]
+ * @property {any} [other]
+ */
+
+export function NowPlaying() {
+
+  const apiBaseUrl = import.meta.env.VITE_API_BASE_URL;
+  const [currentVid] = useLocalStorage('currentVid', null);
+  const [playlist, setPlaylist] = useState([]);
+  const [dataReady, setDataReady] = useState(false);
+  const log = useDebugLog();
+  /** @type {[PlaylistMetadata, Function]} */
+  const [metadata, setMetadata] = useState({});
+
+  // Effect to log show end and clear currentVid on unmount
+  useEffect(() => {
+    return () => {
+      if (currentVid && currentVid.imdb) {
+        logShowEnd(currentVid.imdb);
+      }
+      localStorage.removeItem('currentVid');
+      showVidNavBtnsSignal.value = false;
+    };
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      /** @type {HTMLElement|null} */
+      const wrapper = document.querySelector('.vidViewWrapper');
+      if (wrapper) wrapper.style.backgroundColor = '#FFF';
+    };
+  }, []);
+
+  // if user returns to the route and there's no currentVid data
+  if (!currentVid) {
+    return (
+      <>
+        <NavbarVideoPlayback />
+        <div className="container text-center my-5">
+          <h2 className="text-danger mb-4">No data for last-watched video</h2>
+          <p>You can only return to (or reload) this page while the current video is playing. After you navigate away from the page you'll have to reload the video. Check the <Link href="/recent" className="link-primary">Recent</Link> page for a list of shows that you've recently watched. Click on a show title to re-queue and start playing the video.</p>
+          <p className="mt-4"><span className="fs-4">❔</span><br/><img src="/assets/mehface.svg" width="65" /></p>
+        </div>
+      </>
+    );
+  }
+
+  const { identifier, title } = currentVid;
+
+  useEffect(() => {
+    if (title) { document.title = `Free TV: ${title}`; } 
+    else { document.title = "Free TV"; }
+  }, [title]);
+
+  // Show nav buttons when component mounts (player will be ready)
+  useEffect(() => {
+    showVidNavBtnsSignal.value = true;
+    if (title) log(`Loading video: ${title}`);
+    // Change background color of vidViewWrapper to black
+    /** @type {HTMLElement|null} */
+    const wrapper = document.querySelector('.vidViewWrapper');
+    if (wrapper) wrapper.style.backgroundColor = '#000';
+  }, []);
+
+  // Handle data ready from VideoLoader
+  const handleDataReady = (playlistData, metadataInfo) => {
+    console.log('🎯 NowPlaying: Data ready from VideoLoader');
+    console.log('📦 Playlist data:', playlistData);
+    console.log('📊 Metadata:', metadataInfo);
+    
+    setPlaylist(playlistData);
+    setMetadata(metadataInfo);
+    setDataReady(true);
+    
+    log(`Playlist loaded: ${playlistData.length} videos ready`);
+  };
+
+  // Handle loading more videos (lazy loading)
+  const handleLoadMore = async (from, to) => {
+    console.log(`📦 NowPlaying: Loading more videos ${from}-${to}`);
+    try {
+
+      const chunkUrl = `${apiBaseUrl}/api/get_playlist_chunk.php?identifier=${encodeURIComponent(identifier)}&from=${from}&to=${to}`;
+      console.log(`📡 NowPlaying: Fetching chunk - ${chunkUrl}`);
+      const response = await fetch(chunkUrl);
+
+      if (!response.ok) {
+        throw new Error(`Failed to load more videos: ${response.status}`);
+      }
+      
+      const chunkData = await response.json();
+      console.log(`✅ NowPlaying: Received ${chunkData.playlist?.length || 0} more videos`);
+      
+      if (chunkData.success && chunkData.playlist) {
+        // Append new videos to existing playlist
+        setPlaylist(prevPlaylist => [...prevPlaylist, ...chunkData.playlist]);
+        console.log(`📊 NowPlaying: Total videos now: ${playlist.length + chunkData.playlist.length}`);
+      } else {
+        console.error('❌ NowPlaying: Failed to load more videos:', chunkData.error);
+      }
+      
+    } catch (error) {
+      console.error('❌ NowPlaying: Error loading more videos:', error);
+    }
+  };
+
+  // Analytics tracking callback
+  const handleTrack = (event, identifier, progress) => {
+    log(`Video tracking: ${event} - ${identifier}${progress ? ` (${progress}%)` : ''}`);
+    // You can add more analytics logic here if needed
+  };
+
+  return (
+    <>
+      <NavbarVideoPlayback />
+      <div className="vidViewWrapper">
+        {!dataReady ? (
+          <VideoLoader
+            identifier={identifier}
+            title={title}
+            onDataReady={handleDataReady}
+            timeoutMs={60000}
+            initialChunkSize={10}
+          />
+        ) : (
+          <VideoPlayerUI
+            playlist={playlist}
+            identifier={identifier}
+            metadata={metadata}
+            onLoadMore={handleLoadMore}
+          />
+        )}
+      </div>
+    </>
+  );
+}

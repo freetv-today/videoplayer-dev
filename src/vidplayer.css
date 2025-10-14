@@ -1,0 +1,138 @@
+
+.custom-ia-player {
+  display: flex;
+  width: 100vw;
+  height: calc(100vh - 60px);
+  background: #000;
+  overflow: hidden;
+}
+
+.video-wrapper {
+  flex: 1;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+}
+
+.playlist-wrapper {
+  width: 500px;
+  background: #1a1a1a;
+  color: #fff;
+  overflow-y: auto;
+  height: 100%;
+  transition: width 0.3s ease, margin-left 0.3s ease;
+  position: relative;
+}
+
+.playlist-wrapper.playlist-hidden {
+  width: 0;
+  overflow: hidden;
+}
+
+/* Playlist content with padding */
+.playlist-content {
+  padding: 20px;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.playlist-list {
+  list-style: none;
+  padding: 0;
+}
+
+.playlist-list li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #333;
+  transition: background 0.2s;
+}
+
+.playlist-list li:hover {
+  background: #333;
+}
+
+.thumb {
+  width: 60px;
+  height: 45px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+/* Overlay Styles */
+.overlay-resume {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.overlay-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  color: #000;
+}
+
+.overlay-content button {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .custom-ia-player {
+    flex-direction: column;
+  }
+  
+  .video-wrapper {
+    height: 10%;
+  }
+  
+  .playlist-wrapper {
+    width: 100%;
+    height: 90%;
+  }
+  
+  .playlist-wrapper.playlist-hidden {
+    height: 0;
+    width: 100%;
+  }
+}
+
+/* Video.js Customizations */
+.video-js {
+  width: 100%;
+  height: 100%;
+}
+
+.video-js .vjs-tech {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain; /* Keep aspect ratio, no cropping */
+  object-position: center;
+}
+
+.video-js .vjs-control-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 1.2em;
+}

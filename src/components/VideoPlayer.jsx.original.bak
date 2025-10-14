@@ -1,0 +1,344 @@
+import { useState, useEffect, useRef } from 'preact/hooks';
+import videojs from 'video.js';
+import 'video.js/dist/video-js.css';
+import '@videojs/themes/dist/fantasy/index.css';
+import 'videojs-playlist';
+import { playlistVisibilitySignal } from '@signals/playlistVisibility';
+import { SpinnerLoadingVideo } from '@components/Loaders/SpinnerLoadingVideo';
+import { Link } from '@components/Navigation/Link';
+import { useVideoResume } from '@hooks/useVideoResume';
+
+// Pass onTrack callback if you want parent-level handling
+// Playlist visibility controlled by playlistVisibilitySignal
+const VideoPlayer = ({ identifier, onTrack }) => { 
+
+  const videoRef = useRef(null);
+  const [player, setPlayer] = useState(null);
+  const [playlist, setPlaylist] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [debugInfo, setDebugInfo] = useState(null);
+  const progressPoints = [0.25, 0.5, 0.75]; // For tracking milestones
+
+  // Use custom hook for resume functionality
+  const { showResume, savedTime, handleResume } = useVideoResume(player, identifier);
+
+  // Fetch metadata with comprehensive error handling and logging
+  useEffect(() => {
+    console.log(`🎬 VideoPlayer: Starting fetch for identifier: ${identifier}`);
+    setLoading(true);
+    setError(null);
+    setDebugInfo(null);
+
+    const fetchUrl = `https://archive.org/metadata/${identifier}/files`;
+    console.log(`📡 Fetching from: ${fetchUrl}`);
+
+    fetch(fetchUrl)
+      .then(res => {
+        console.log(`📦 Response status: ${res.status} ${res.statusText}`);
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+        }
+        return res.json();
+      })
+      .then(data => {
+        console.log(`📊 Raw API response:`, data);
+        
+        if (!data || !data.result || !Array.isArray(data.result)) {
+          throw new Error('Invalid API response structure');
+        }
+
+        console.log(`📁 Total files in archive: ${data.result.length}`);
+
+        // Log all available formats for debugging
+        const formatCounts = {};
+        data.result.forEach(file => {
+          if (file.format) {
+            formatCounts[file.format] = (formatCounts[file.format] || 0) + 1;
+          }
+        });
+        console.log(`📋 Available formats:`, formatCounts);
+
+        // More permissive video filtering - accept multiple formats
+        const videos = data.result
+          .filter(file => {
+            if (!file.format || !file.name) return false;
+            
+            // Accept various video formats
+            const videoFormats = [
+              'h.264', 'H.264', 'MPEG4',
+              'WebM', 'webm',
+              'Ogg Video', 'ogg video',
+              'MPEG2', 'mpeg2',
+              'Matroska', 'matroska', 'MKV', 'mkv',
+              'Archive BitTorrent' // Sometimes video files are labeled this way
+            ];
+            
+            const formatMatch = videoFormats.some(fmt => 
+              file.format.includes(fmt)
+            );
+            
+            // Also check file extension as backup
+            const videoExtensions = ['.mp4', '.webm', '.ogv', '.m4v', '.mpeg', '.mpg', '.mkv'];
+            const extensionMatch = videoExtensions.some(ext => 
+              file.name.toLowerCase().endsWith(ext)
+            );
+            
+            // Exclude thumbnail/metadata files
+            const isNotThumb = !file.name.toLowerCase().includes('thumb') && 
+                              !file.name.toLowerCase().includes('.xml') &&
+                              !file.name.toLowerCase().includes('.jpg') &&
+                              !file.name.toLowerCase().includes('.png');
+            
+            return (formatMatch || extensionMatch) && isNotThumb;
+          })
+          .sort((a, b) => {
+            const titleA = a.title || a.name || '';
+            const titleB = b.title || b.name || '';
+            return titleA.localeCompare(titleB);
+          })
+          .map(file => {
+            // Determine MIME type from file extension
+            let mimeType = 'video/mp4'; // default
+            const fileName = file.name.toLowerCase();
+            if (fileName.endsWith('.webm')) mimeType = 'video/webm';
+            else if (fileName.endsWith('.ogv')) mimeType = 'video/ogg';
+            else if (fileName.endsWith('.m4v')) mimeType = 'video/mp4';
+            else if (fileName.endsWith('.mkv')) mimeType = 'video/x-matroska';
+
+            return {
+              sources: [{ 
+                src: `https://archive.org/download/${identifier}/${file.name}`, 
+                type: mimeType 
+              }],
+              title: file.title || file.name.replace(/\.[^/.]+$/, ''),
+              originalFormat: file.format,
+              fileName: file.name
+            };
+          });
+
+        console.log(`✅ Filtered to ${videos.length} video files`);
+        
+        if (videos.length > 0) {
+          console.log(`🎥 First video:`, videos[0]);
+          console.log(`🎥 Sample playlist items:`, videos.slice(0, 3));
+        }
+
+        // Store debug info for error display
+        setDebugInfo({
+          totalFiles: data.result.length,
+          videoFiles: videos.length,
+          formats: formatCounts,
+          identifier: identifier
+        });
+
+        if (videos.length === 0) {
+          throw new Error(`No compatible video files found in archive. Total files: ${data.result.length}`);
+        }
+
+        setPlaylist(videos);
+        setLoading(false);
+        console.log(`✨ Playlist loaded successfully with ${videos.length} videos`);
+      })
+      .catch(error => {
+        console.error('❌ Failed to fetch playlist:', error);
+        console.error('❌ Error details:', {
+          message: error.message,
+          identifier: identifier,
+          fetchUrl: fetchUrl
+        });
+        setError(error.message);
+        setLoading(false);
+      });
+
+    return () => {
+      if (player) {
+        console.log(`🧹 Disposing player for: ${identifier}`);
+        player.dispose();
+      }
+    };
+  }, [identifier]);
+
+  // Initialize player and resume logic
+  useEffect(() => {
+    if (!videoRef.current || !playlist.length) return;
+
+    const vjsPlayer = videojs(videoRef.current, {
+      fluid: false,
+      responsive: false,
+      fill: true,
+      playbackRates: [0.5, 1, 1.25, 1.5, 2]
+    });
+
+    // @ts-ignore - playlist method added by videojs-playlist plugin
+    vjsPlayer.playlist(playlist);
+
+    setPlayer(vjsPlayer);
+
+    // Tracking: Events for analytics
+    vjsPlayer.on('play', () => {
+      // Log view start
+      if (onTrack) onTrack('play', identifier);
+    });
+
+    vjsPlayer.on('ended', () => {
+      // Log completion
+      if (onTrack) onTrack('complete', identifier);
+    });
+
+    // Debounced progress tracking (e.g., for milestones)
+    let lastProgress = 0;
+    const trackProgress = () => {
+      const current = vjsPlayer.currentTime() / vjsPlayer.duration();
+      const nextPoint = progressPoints.find(p => p > lastProgress && current >= p);
+      if (nextPoint) {
+        lastProgress = nextPoint;
+        if (onTrack) onTrack('progress', identifier, Math.round(nextPoint * 100));
+      }
+    };
+    vjsPlayer.on('timeupdate', trackProgress);
+
+    // Cleanup
+    return () => {
+      vjsPlayer.off('play');
+      vjsPlayer.off('ended');
+      vjsPlayer.off('timeupdate', trackProgress);
+    };
+  }, [playlist, identifier, onTrack]);
+
+  // Loading state with spinner
+  if (loading) {
+    return <SpinnerLoadingVideo title={identifier.replace(/-|_/g, ' ')} />;
+  }
+
+  // Error state with debug info
+  if (error) {
+    return (
+      <div className="container text-center my-5 p-4">
+        <h2 className="text-danger mb-4">⚠️ Failed to Load Video</h2>
+        <div className="alert alert-danger text-start mb-4">
+          <h5 className="fw-bold">Error:</h5>
+          <p className="mb-0">{error}</p>
+        </div>
+        
+        {debugInfo && (
+          <div className="alert alert-info text-start">
+            <h5 className="fw-bold">Debug Information:</h5>
+            <ul className="mb-0">
+              <li><strong>Identifier:</strong> <code>{debugInfo.identifier}</code></li>
+              <li><strong>Total Files Found:</strong> {debugInfo.totalFiles}</li>
+              <li><strong>Video Files Found:</strong> {debugInfo.videoFiles}</li>
+              <li><strong>Available Formats:</strong>
+                <ul>
+                  {Object.entries(debugInfo.formats).map(([format, count]) => (
+                    <li key={format}>{format}: {count} files</li>
+                  ))}
+                </ul>
+              </li>
+            </ul>
+          </div>
+        )}
+
+        <div className="mt-4">
+          <p className="text-secondary">
+            Try checking the <a 
+              href={`https://archive.org/details/${identifier}`} 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="link-light"
+            >
+              Internet Archive page
+            </a> to see if video files are available.
+          </p>
+          <p className="text-secondary">
+            Or go <Link href="/" className="link-light">back to the home page</Link>.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  // Empty playlist state
+  if (!playlist || playlist.length === 0) {
+    return (
+      <div className="container text-center my-5 p-4">
+        <h2 className="text-warning mb-4">📹 No Videos Found</h2>
+        <p>No compatible video files were found in this archive.</p>
+        <p className="text-secondary">
+          Check the <a 
+            href={`https://archive.org/details/${identifier}`} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="link-primary"
+          >
+            Internet Archive page
+          </a> for more details.
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      {/* Success message removed; info now only logged to console */}
+      
+      {/* VideoJS Player */}
+      <div class="custom-ia-player">
+        <div class="video-wrapper" data-vjs-player>
+          <video
+            id="vidplayer"
+            ref={videoRef}
+            class="video-js vjs-big-play-centered fantasy-skin"
+            controls
+            preload="auto"
+            data-setup="{}"
+          >
+            {/* <source src="/colorbars.mp4" type="video/mp4" /> */}
+          </video>
+          {/* Sample Overlay: Resume prompt */}
+          {showResume && (
+            <div class="overlay-resume">
+              <div class="overlay-content">
+                <p>Resume from {Math.round(savedTime / 60)} min?</p>
+                <button onClick={() => handleResume(true)}>Yes</button>
+                <button onClick={() => handleResume(false)}>Start Over</button>
+              </div>
+            </div>
+          )}
+          {/* Add more overlays here, e.g., custom buttons */}
+        </div>
+        
+        <div class={`playlist-wrapper ${playlistVisibilitySignal.value ? '' : 'playlist-hidden'}`}>
+          <div class="playlist-content">
+            <ul class="playlist-list">
+              {playlist.map((item, idx) => (
+                <li 
+                  key={idx} 
+                  onClick={() => { 
+                    if (player) {
+                      console.log(`🎬 Playing video ${idx + 1}/${playlist.length}:`, {
+                        title: item.title,
+                        source: item.sources[0].src,
+                        format: item.originalFormat,
+                        fileName: item.fileName
+                      });
+                      player.src(item.sources);
+                      player.load();
+                      player.play();
+                      document.title = item.title;
+                    }
+                  }}
+                  title={`Format: ${item.originalFormat} | File: ${item.fileName}`}
+                >
+                  <span>{item.title}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
+
+export default VideoPlayer;

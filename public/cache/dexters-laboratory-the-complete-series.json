@@ -1,0 +1,1153 @@
+{
+    "success": true,
+    "identifier": "dexters-laboratory-the-complete-series",
+    "totalFiles": 656,
+    "videoFiles": 81,
+    "availableFormats": {
+        "MPEG4": 81,
+        "h.264 IA": 2,
+        "Item Tile": 1,
+        "Thumbnail": 567,
+        "Archive BitTorrent": 1,
+        "Metadata": 4
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E01.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e01",
+            "originalTitle": "Dexter_s_Laboratory_S01E01.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E01.mp4",
+            "fileSize": "93823850"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E02.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e02",
+            "originalTitle": "Dexter_s_Laboratory_S01E02.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E02.mp4",
+            "fileSize": "100352260"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E03.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e03",
+            "originalTitle": "Dexter_s_Laboratory_S01E03.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E03.mp4",
+            "fileSize": "91804367"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E04.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e04",
+            "originalTitle": "Dexter_s_Laboratory_S01E04.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E04.mp4",
+            "fileSize": "97897109"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E05.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e05",
+            "originalTitle": "Dexter_s_Laboratory_S01E05.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E05.mp4",
+            "fileSize": "98364821"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E06.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e06",
+            "originalTitle": "Dexter_s_Laboratory_S01E06.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E06.mp4",
+            "fileSize": "105617682"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E07.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e07",
+            "originalTitle": "Dexter_s_Laboratory_S01E07.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E07.mp4",
+            "fileSize": "101569553"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E08.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e08",
+            "originalTitle": "Dexter_s_Laboratory_S01E08.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E08.mp4",
+            "fileSize": "110503383"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E09.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e09",
+            "originalTitle": "Dexter_s_Laboratory_S01E09.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E09.mp4",
+            "fileSize": "110217811"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E10.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e10",
+            "originalTitle": "Dexter_s_Laboratory_S01E10.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E10.mp4",
+            "fileSize": "121924342"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E11.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e11",
+            "originalTitle": "Dexter_s_Laboratory_S01E11.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E11.mp4",
+            "fileSize": "103619878"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E12.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e12",
+            "originalTitle": "Dexter_s_Laboratory_S01E12.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E12.mp4",
+            "fileSize": "101444292"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S01E13.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S01e13",
+            "originalTitle": "Dexter_s_Laboratory_S01E13.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S01E13.mp4",
+            "fileSize": "117495795"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E01.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e01",
+            "originalTitle": "Dexter_s_Laboratory_S02E01.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E01.mp4",
+            "fileSize": "102949871"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E02.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e02",
+            "originalTitle": "Dexter_s_Laboratory_S02E02.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E02.mp4",
+            "fileSize": "102826846"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E03.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e03",
+            "originalTitle": "Dexter_s_Laboratory_S02E03.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E03.mp4",
+            "fileSize": "96088280"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E04.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e04",
+            "originalTitle": "Dexter_s_Laboratory_S02E04.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E04.mp4",
+            "fileSize": "89180135"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E05.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e05",
+            "originalTitle": "Dexter_s_Laboratory_S02E05.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E05.mp4",
+            "fileSize": "86766399"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E06.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e06",
+            "originalTitle": "Dexter_s_Laboratory_S02E06.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E06.mp4",
+            "fileSize": "97180065"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E07.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e07",
+            "originalTitle": "Dexter_s_Laboratory_S02E07.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E07.mp4",
+            "fileSize": "96986230"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E08.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e08",
+            "originalTitle": "Dexter_s_Laboratory_S02E08.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E08.mp4",
+            "fileSize": "101877836"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E09.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e09",
+            "originalTitle": "Dexter_s_Laboratory_S02E09.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E09.mp4",
+            "fileSize": "95706469"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E10.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e10",
+            "originalTitle": "Dexter_s_Laboratory_S02E10.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E10.mp4",
+            "fileSize": "87947406"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E11.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e11",
+            "originalTitle": "Dexter_s_Laboratory_S02E11.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E11.mp4",
+            "fileSize": "100997914"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E12.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e12",
+            "originalTitle": "Dexter_s_Laboratory_S02E12.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E12.mp4",
+            "fileSize": "91007814"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E13.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e13",
+            "originalTitle": "Dexter_s_Laboratory_S02E13.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E13.mp4",
+            "fileSize": "94085155"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E14.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e14",
+            "originalTitle": "Dexter_s_Laboratory_S02E14.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E14.mp4",
+            "fileSize": "90379644"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E15.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e15",
+            "originalTitle": "Dexter_s_Laboratory_S02E15.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E15.mp4",
+            "fileSize": "92420328"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E16.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e16",
+            "originalTitle": "Dexter_s_Laboratory_S02E16.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E16.mp4",
+            "fileSize": "97615299"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E17.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e17",
+            "originalTitle": "Dexter_s_Laboratory_S02E17.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E17.mp4",
+            "fileSize": "88571715"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E18.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e18",
+            "originalTitle": "Dexter_s_Laboratory_S02E18.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E18.mp4",
+            "fileSize": "92327815"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E19.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e19",
+            "originalTitle": "Dexter_s_Laboratory_S02E19.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E19.mp4",
+            "fileSize": "82159264"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E20.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e20",
+            "originalTitle": "Dexter_s_Laboratory_S02E20.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E20.mp4",
+            "fileSize": "95559478"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E21.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e21",
+            "originalTitle": "Dexter_s_Laboratory_S02E21.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E21.mp4",
+            "fileSize": "90208046"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E22.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e22",
+            "originalTitle": "Dexter_s_Laboratory_S02E22.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E22.mp4",
+            "fileSize": "95806200"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E23.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e23",
+            "originalTitle": "Dexter_s_Laboratory_S02E23.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E23.mp4",
+            "fileSize": "94147776"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E24.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e24",
+            "originalTitle": "Dexter_s_Laboratory_S02E24.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E24.mp4",
+            "fileSize": "89378830"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E25.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e25",
+            "originalTitle": "Dexter_s_Laboratory_S02E25.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E25.mp4",
+            "fileSize": "91828078"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E26.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e26",
+            "originalTitle": "Dexter_s_Laboratory_S02E26.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E26.mp4",
+            "fileSize": "90125226"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E27.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e27",
+            "originalTitle": "Dexter_s_Laboratory_S02E27.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E27.mp4",
+            "fileSize": "79780239"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E28.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e28",
+            "originalTitle": "Dexter_s_Laboratory_S02E28.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E28.mp4",
+            "fileSize": "91940102"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e29",
+            "originalTitle": "Dexter_s_Laboratory_S02E29.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E29.mp4",
+            "fileSize": "85284355"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E30.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e30",
+            "originalTitle": "Dexter_s_Laboratory_S02E30.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E30.mp4",
+            "fileSize": "90104967"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E31.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e31",
+            "originalTitle": "Dexter_s_Laboratory_S02E31.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E31.mp4",
+            "fileSize": "85804913"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E32.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e32",
+            "originalTitle": "Dexter_s_Laboratory_S02E32.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E32.mp4",
+            "fileSize": "86454874"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E33.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e33",
+            "originalTitle": "Dexter_s_Laboratory_S02E33.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E33.mp4",
+            "fileSize": "97549857"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E34.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e34",
+            "originalTitle": "Dexter_s_Laboratory_S02E34.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E34.mp4",
+            "fileSize": "93986858"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E35.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e35",
+            "originalTitle": "Dexter_s_Laboratory_S02E35.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E35.mp4",
+            "fileSize": "95753696"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E36.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e36",
+            "originalTitle": "Dexter_s_Laboratory_S02E36.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E36.mp4",
+            "fileSize": "89519182"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E37.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e37",
+            "originalTitle": "Dexter_s_Laboratory_S02E37.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E37.mp4",
+            "fileSize": "104636530"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E38.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e38",
+            "originalTitle": "Dexter_s_Laboratory_S02E38.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E38.mp4",
+            "fileSize": "86726315"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E39.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e39",
+            "originalTitle": "Dexter_s_Laboratory_S02E39.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S02E39.mp4",
+            "fileSize": "118875022"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E40.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e40.ia",
+            "originalTitle": "Dexter_s_Laboratory_S02E40.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Dexter_s_Laboratory_S02E40.ia.mp4",
+            "fileSize": "28243150"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S02E41.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S02e41.ia",
+            "originalTitle": "Dexter_s_Laboratory_S02E41.ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Dexter_s_Laboratory_S02E41.ia.mp4",
+            "fileSize": "22125178"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E01.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e01",
+            "originalTitle": "Dexter_s_Laboratory_S03E01.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E01.mp4",
+            "fileSize": "64088423"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E02.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e02",
+            "originalTitle": "Dexter_s_Laboratory_S03E02.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E02.mp4",
+            "fileSize": "68306229"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E03.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e03",
+            "originalTitle": "Dexter_s_Laboratory_S03E03.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E03.mp4",
+            "fileSize": "63581751"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E04.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e04",
+            "originalTitle": "Dexter_s_Laboratory_S03E04.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E04.mp4",
+            "fileSize": "74456048"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E05.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e05",
+            "originalTitle": "Dexter_s_Laboratory_S03E05.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E05.mp4",
+            "fileSize": "58309722"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E06.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e06",
+            "originalTitle": "Dexter_s_Laboratory_S03E06.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E06.mp4",
+            "fileSize": "69525532"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E07.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e07",
+            "originalTitle": "Dexter_s_Laboratory_S03E07.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E07.mp4",
+            "fileSize": "62178011"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E08.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e08",
+            "originalTitle": "Dexter_s_Laboratory_S03E08.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E08.mp4",
+            "fileSize": "61146458"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E09.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e09",
+            "originalTitle": "Dexter_s_Laboratory_S03E09.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E09.mp4",
+            "fileSize": "64401527"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E10.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e10",
+            "originalTitle": "Dexter_s_Laboratory_S03E10.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E10.mp4",
+            "fileSize": "61504297"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E11.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e11",
+            "originalTitle": "Dexter_s_Laboratory_S03E11.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E11.mp4",
+            "fileSize": "58885685"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E12.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e12",
+            "originalTitle": "Dexter_s_Laboratory_S03E12.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E12.mp4",
+            "fileSize": "73825001"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S03E13.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S03e13",
+            "originalTitle": "Dexter_s_Laboratory_S03E13.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S03E13.mp4",
+            "fileSize": "67747680"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E01.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e01",
+            "originalTitle": "Dexter_s_Laboratory_S04E01.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E01.mp4",
+            "fileSize": "64733053"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E02.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e02",
+            "originalTitle": "Dexter_s_Laboratory_S04E02.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E02.mp4",
+            "fileSize": "61814727"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E03.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e03",
+            "originalTitle": "Dexter_s_Laboratory_S04E03.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E03.mp4",
+            "fileSize": "61202575"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E04.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e04",
+            "originalTitle": "Dexter_s_Laboratory_S04E04.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E04.mp4",
+            "fileSize": "76667394"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E05.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e05",
+            "originalTitle": "Dexter_s_Laboratory_S04E05.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E05.mp4",
+            "fileSize": "60219609"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E06.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e06",
+            "originalTitle": "Dexter_s_Laboratory_S04E06.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E06.mp4",
+            "fileSize": "62410556"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E07.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e07",
+            "originalTitle": "Dexter_s_Laboratory_S04E07.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E07.mp4",
+            "fileSize": "65862462"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E08.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e08",
+            "originalTitle": "Dexter_s_Laboratory_S04E08.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E08.mp4",
+            "fileSize": "60025084"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E09.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e09",
+            "originalTitle": "Dexter_s_Laboratory_S04E09.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E09.mp4",
+            "fileSize": "64277489"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E10.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e10",
+            "originalTitle": "Dexter_s_Laboratory_S04E10.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E10.mp4",
+            "fileSize": "72531931"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E11.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e11",
+            "originalTitle": "Dexter_s_Laboratory_S04E11.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E11.mp4",
+            "fileSize": "80157217"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E12.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e12",
+            "originalTitle": "Dexter_s_Laboratory_S04E12.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E12.mp4",
+            "fileSize": "70977018"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter_s_Laboratory_S04E13.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter's Laboratory S04e13",
+            "originalTitle": "Dexter_s_Laboratory_S04E13.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter_s_Laboratory_S04E13.mp4",
+            "fileSize": "64335662"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/dexters-laboratory-the-complete-series\/Dexter%E2%80%99s_Laboratory_-_Ego_Trip.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Dexter\u2019s Laboratory - Ego Trip",
+            "originalTitle": "Dexter\u2019s_Laboratory_-_Ego_Trip.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Dexter\u2019s_Laboratory_-_Ego_Trip.mp4",
+            "fileSize": "211888427"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T03:46:21+00:00",
+    "api_version": "1.0"
+}

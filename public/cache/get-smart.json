@@ -1,0 +1,1953 @@
+{
+    "success": true,
+    "identifier": "get-smart",
+    "totalFiles": 557,
+    "videoFiles": 138,
+    "availableFormats": {
+        "h.264 IA": 137,
+        "MPEG4": 138,
+        "BitTorrent": 1,
+        "BitTorrentContents": 1,
+        "Item Tile": 1,
+        "Thumbnail": 274,
+        "Archive BitTorrent": 1,
+        "Metadata": 4
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E01+%28Mr.+Big%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e01 (mr. Big).ia",
+            "originalTitle": "Get Smart S01E01 (Mr. Big).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E01 (Mr. Big).ia.mp4",
+            "fileSize": "159033729"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E02+%28Diplomat%27s+Daughter%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e02 (diplomat's Daughter).ia",
+            "originalTitle": "Get Smart S01E02 (Diplomat's Daughter).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E02 (Diplomat's Daughter).ia.mp4",
+            "fileSize": "157508129"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E03+%28School+Days%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e03 (school Days).ia",
+            "originalTitle": "Get Smart S01E03 (School Days).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E03 (School Days).ia.mp4",
+            "fileSize": "157531702"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E04+%28Our+Man+in+Toyland%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e04 (our Man In Toyland).ia",
+            "originalTitle": "Get Smart S01E04 (Our Man in Toyland).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E04 (Our Man in Toyland).ia.mp4",
+            "fileSize": "157160429"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E05+%28Now+You+See+Him...+Now+You+Don%27t%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e05 (now You See Him... Now You Don't).ia",
+            "originalTitle": "Get Smart S01E05 (Now You See Him... Now You Don't).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E05 (Now You See Him... Now You Don't).ia.mp4",
+            "fileSize": "157147520"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E06+%28Washington+4%2C+Indians+3%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e06 (washington 4, Indians 3).ia",
+            "originalTitle": "Get Smart S01E06 (Washington 4, Indians 3).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E06 (Washington 4, Indians 3).ia.mp4",
+            "fileSize": "157692923"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E07+%28KAOS+in+CONTROL%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e07 (kaos In Control).ia",
+            "originalTitle": "Get Smart S01E07 (KAOS in CONTROL).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E07 (KAOS in CONTROL).ia.mp4",
+            "fileSize": "156847755"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E08+%28The+Day+Smart+Turned+Chicken%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e08 (the Day Smart Turned Chicken).ia",
+            "originalTitle": "Get Smart S01E08 (The Day Smart Turned Chicken).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E08 (The Day Smart Turned Chicken).ia.mp4",
+            "fileSize": "157119327"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E09+%28Satan+Place%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e09 (satan Place).ia",
+            "originalTitle": "Get Smart S01E09 (Satan Place).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E09 (Satan Place).ia.mp4",
+            "fileSize": "158078557"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E10+%28Our+Man+in+Leotards%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e10 (our Man In Leotards).ia",
+            "originalTitle": "Get Smart S01E10 (Our Man in Leotards).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E10 (Our Man in Leotards).ia.mp4",
+            "fileSize": "158084441"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E11+%28Too+Many+Chiefs%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e11 (too Many Chiefs).ia",
+            "originalTitle": "Get Smart S01E11 (Too Many Chiefs).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E11 (Too Many Chiefs).ia.mp4",
+            "fileSize": "156714327"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E12+%28My+Nephew+the+Spy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e12 (my Nephew The Spy).ia",
+            "originalTitle": "Get Smart S01E12 (My Nephew the Spy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E12 (My Nephew the Spy).ia.mp4",
+            "fileSize": "157302233"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E13+%28Aboard+the+Orient+Express%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e13 (aboard The Orient Express).ia",
+            "originalTitle": "Get Smart S01E13 (Aboard the Orient Express).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E13 (Aboard the Orient Express).ia.mp4",
+            "fileSize": "157567431"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E14+%28Weekend+Vampire%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e14 (weekend Vampire).ia",
+            "originalTitle": "Get Smart S01E14 (Weekend Vampire).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E14 (Weekend Vampire).ia.mp4",
+            "fileSize": "157083466"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E15+%28Survival+of+the+Fattest%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e15 (survival Of The Fattest).ia",
+            "originalTitle": "Get Smart S01E15 (Survival of the Fattest).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E15 (Survival of the Fattest).ia.mp4",
+            "fileSize": "157747048"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E16+%28Double+Agent%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e16 (double Agent).ia",
+            "originalTitle": "Get Smart S01E16 (Double Agent).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E16 (Double Agent).ia.mp4",
+            "fileSize": "157306951"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E17+%28Kisses+for+KAOS%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e17 (kisses For Kaos).ia",
+            "originalTitle": "Get Smart S01E17 (Kisses for KAOS).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E17 (Kisses for KAOS).ia.mp4",
+            "fileSize": "157999573"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E18+%28The+Dead+Spy+Scrawls%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e18 (the Dead Spy Scrawls).ia",
+            "originalTitle": "Get Smart S01E18 (The Dead Spy Scrawls).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E18 (The Dead Spy Scrawls).ia.mp4",
+            "fileSize": "157829424"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E19+%28Back+to+the+Old+Drawing+Board%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e19 (back To The Old Drawing Board).ia",
+            "originalTitle": "Get Smart S01E19 (Back to the Old Drawing Board).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E19 (Back to the Old Drawing Board).ia.mp4",
+            "fileSize": "157476790"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E20+%28All+in+the+Mind%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e20 (all In The Mind).ia",
+            "originalTitle": "Get Smart S01E20 (All in the Mind).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E20 (All in the Mind).ia.mp4",
+            "fileSize": "157561926"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E21+%28Dear+Diary%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e21 (dear Diary).ia",
+            "originalTitle": "Get Smart S01E21 (Dear Diary).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E21 (Dear Diary).ia.mp4",
+            "fileSize": "157785805"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E22+%28Smart%2C+the+Assassin%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e22 (smart, The Assassin).ia",
+            "originalTitle": "Get Smart S01E22 (Smart, the Assassin).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E22 (Smart, the Assassin).ia.mp4",
+            "fileSize": "158066679"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E23+%28I%27m+Only+Human%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e23 (i'm Only Human).ia",
+            "originalTitle": "Get Smart S01E23 (I'm Only Human).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E23 (I'm Only Human).ia.mp4",
+            "fileSize": "156616174"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E24+%28Stakeout+on+Blue+Mist+Mountain%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e24 (stakeout On Blue Mist Mountain).ia",
+            "originalTitle": "Get Smart S01E24 (Stakeout on Blue Mist Mountain).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E24 (Stakeout on Blue Mist Mountain).ia.mp4",
+            "fileSize": "157825493"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E25+%28The+Amazing+Harry+Hoo%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e25 (the Amazing Harry Hoo).ia",
+            "originalTitle": "Get Smart S01E25 (The Amazing Harry Hoo).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E25 (The Amazing Harry Hoo).ia.mp4",
+            "fileSize": "158041423"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E26+%28Hubert%27s+Unfinished+Symphony%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e26 (hubert's Unfinished Symphony).ia",
+            "originalTitle": "Get Smart S01E26 (Hubert's Unfinished Symphony).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E26 (Hubert's Unfinished Symphony).ia.mp4",
+            "fileSize": "157934055"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E27+%28Ship+of+Spies+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e27 (ship Of Spies - Pt1).ia",
+            "originalTitle": "Get Smart S01E27 (Ship of Spies - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E27 (Ship of Spies - Pt1).ia.mp4",
+            "fileSize": "157678345"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E28+%28Ship+of+Spies+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e28 (ship Of Spies - Pt2).ia",
+            "originalTitle": "Get Smart S01E28 (Ship of Spies - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E28 (Ship of Spies - Pt2).ia.mp4",
+            "fileSize": "158040857"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E29+%28Shipment+to+Beirut%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e29 (shipment To Beirut).ia",
+            "originalTitle": "Get Smart S01E29 (Shipment to Beirut).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E29 (Shipment to Beirut).ia.mp4",
+            "fileSize": "157633712"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S01E30+%28The+Last+One+in+is+a+Rotten+Spy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S01e30 (the Last One In Is A Rotten Spy).ia",
+            "originalTitle": "Get Smart S01E30 (The Last One in is a Rotten Spy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S01E30 (The Last One in is a Rotten Spy).ia.mp4",
+            "fileSize": "157896274"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E01+%28Anatomy+of+a+Lover%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e01 (anatomy Of A Lover).ia",
+            "originalTitle": "Get Smart S02E01 (Anatomy of a Lover).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E01 (Anatomy of a Lover).ia.mp4",
+            "fileSize": "157623258"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E02+%28Strike+While+the+Agent+is+Hot%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e02 (strike While The Agent Is Hot).ia",
+            "originalTitle": "Get Smart S02E02 (Strike While the Agent is Hot).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E02 (Strike While the Agent is Hot).ia.mp4",
+            "fileSize": "158299382"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E03+%28A+Spy+for+a+Spy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e03 (a Spy For A Spy).ia",
+            "originalTitle": "Get Smart S02E03 (A Spy for a Spy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E03 (A Spy for a Spy).ia.mp4",
+            "fileSize": "158459201"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E04+%28The+Only+Way+to+Die%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e04 (the Only Way To Die).ia",
+            "originalTitle": "Get Smart S02E04 (The Only Way to Die).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E04 (The Only Way to Die).ia.mp4",
+            "fileSize": "157564111"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E05+%28Maxwell+Smart%2C+Alias+Jimmy+Ballantine%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e05 (maxwell Smart, Alias Jimmy Ballantine).ia",
+            "originalTitle": "Get Smart S02E05 (Maxwell Smart, Alias Jimmy Ballantine).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E05 (Maxwell Smart, Alias Jimmy Ballantine).ia.mp4",
+            "fileSize": "157810401"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E06+%28Casablanca%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e06 (casablanca).ia",
+            "originalTitle": "Get Smart S02E06 (Casablanca).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E06 (Casablanca).ia.mp4",
+            "fileSize": "158378231"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E07+%28The+Decoy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e07 (the Decoy).ia",
+            "originalTitle": "Get Smart S02E07 (The Decoy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E07 (The Decoy).ia.mp4",
+            "fileSize": "158138886"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E08+%28Hoo+Done+It%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e08 (hoo Done It).ia",
+            "originalTitle": "Get Smart S02E08 (Hoo Done It).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E08 (Hoo Done It).ia.mp4",
+            "fileSize": "157975054"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E09+%28Rub-a-Dub-Dub...+Three+Spies+in+a+Sub%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e09 (rub-a-dub-dub... Three Spies In A Sub).ia",
+            "originalTitle": "Get Smart S02E09 (Rub-a-Dub-Dub... Three Spies in a Sub).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E09 (Rub-a-Dub-Dub... Three Spies in a Sub).ia.mp4",
+            "fileSize": "156023795"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E10+%28The+Greatest+Spy+on+Earth%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e10 (the Greatest Spy On Earth).ia",
+            "originalTitle": "Get Smart S02E10 (The Greatest Spy on Earth).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E10 (The Greatest Spy on Earth).ia.mp4",
+            "fileSize": "154904191"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E11+%28Island+of+the+Darned%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e11 (island Of The Darned).ia",
+            "originalTitle": "Get Smart S02E11 (Island of the Darned).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E11 (Island of the Darned).ia.mp4",
+            "fileSize": "157865821"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E12+%28Bronzefinger%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e12 (bronzefinger).ia",
+            "originalTitle": "Get Smart S02E12 (Bronzefinger).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E12 (Bronzefinger).ia.mp4",
+            "fileSize": "157377488"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E13+%28Perils+in+a+Pet+Shop%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e13 (perils In A Pet Shop).ia",
+            "originalTitle": "Get Smart S02E13 (Perils in a Pet Shop).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E13 (Perils in a Pet Shop).ia.mp4",
+            "fileSize": "156951025"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E14+%28The+Whole+Tooth+and...%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e14 (the Whole Tooth And...).ia",
+            "originalTitle": "Get Smart S02E14 (The Whole Tooth and...).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E14 (The Whole Tooth and...).ia.mp4",
+            "fileSize": "157315538"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E15+%28Kiss+of+Death%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e15 (kiss Of Death).ia",
+            "originalTitle": "Get Smart S02E15 (Kiss of Death).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E15 (Kiss of Death).ia.mp4",
+            "fileSize": "151159821"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E16+%28It+takes+One+to+Know+One%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e16 (it Takes One To Know One).ia",
+            "originalTitle": "Get Smart S02E16 (It takes One to Know One).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E16 (It takes One to Know One).ia.mp4",
+            "fileSize": "156843774"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E17+%28Someone+Down+Here+Hates+Me%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e17 (someone Down Here Hates Me).ia",
+            "originalTitle": "Get Smart S02E17 (Someone Down Here Hates Me).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E17 (Someone Down Here Hates Me).ia.mp4",
+            "fileSize": "157608480"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E18+%28Cutback+at+CONTROL%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e18 (cutback At Control).ia",
+            "originalTitle": "Get Smart S02E18 (Cutback at CONTROL).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E18 (Cutback at CONTROL).ia.mp4",
+            "fileSize": "157078259"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E19+%28The+Man+from+YENTA%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e19 (the Man From Yenta).ia",
+            "originalTitle": "Get Smart S02E19 (The Man from YENTA).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E19 (The Man from YENTA).ia.mp4",
+            "fileSize": "157384802"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E20+%28The+Mummy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e20 (the Mummy).ia",
+            "originalTitle": "Get Smart S02E20 (The Mummy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E20 (The Mummy).ia.mp4",
+            "fileSize": "157452682"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E21+%28The+Girls+from+KAOS%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e21 (the Girls From Kaos).ia",
+            "originalTitle": "Get Smart S02E21 (The Girls from KAOS).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E21 (The Girls from KAOS).ia.mp4",
+            "fileSize": "158091637"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E22+%28Smart+Fit+the+Battle+of+Jericho%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e22 (smart Fit The Battle Of Jericho).ia",
+            "originalTitle": "Get Smart S02E22 (Smart Fit the Battle of Jericho).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E22 (Smart Fit the Battle of Jericho).ia.mp4",
+            "fileSize": "157032351"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E23+%28Where-What-How-Who+Am+I%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e23 (where-what-how-who Am I).ia",
+            "originalTitle": "Get Smart S02E23 (Where-What-How-Who Am I).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E23 (Where-What-How-Who Am I).ia.mp4",
+            "fileSize": "156996937"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E24+%28The+Expendable+Agent%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e24 (the Expendable Agent).ia",
+            "originalTitle": "Get Smart S02E24 (The Expendable Agent).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E24 (The Expendable Agent).ia.mp4",
+            "fileSize": "156633025"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E25+%28How+to+Succeed+in+the+Spy+Business+without+Really+Trying%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e25 (how To Succeed In The Spy Business Without Really Trying).ia",
+            "originalTitle": "Get Smart S02E25 (How to Succeed in the Spy Business without Really Trying).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E25 (How to Succeed in the Spy Business without Really Trying).ia.mp4",
+            "fileSize": "157217265"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E26+%28Appointment+in+Sahara%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e26 (appointment In Sahara).ia",
+            "originalTitle": "Get Smart S02E26 (Appointment in Sahara).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E26 (Appointment in Sahara).ia.mp4",
+            "fileSize": "157471849"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E27+%28Pussycats+Galore%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e27 (pussycats Galore).ia",
+            "originalTitle": "Get Smart S02E27 (Pussycats Galore).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E27 (Pussycats Galore).ia.mp4",
+            "fileSize": "157461655"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E28+%28A+Man+Called+Smart+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e28 (a Man Called Smart - Pt1).ia",
+            "originalTitle": "Get Smart S02E28 (A Man Called Smart - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E28 (A Man Called Smart - Pt1).ia.mp4",
+            "fileSize": "157668829"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E29+%28A+Man+Called+Smart+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e29 (a Man Called Smart - Pt2).ia",
+            "originalTitle": "Get Smart S02E29 (A Man Called Smart - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E29 (A Man Called Smart - Pt2).ia.mp4",
+            "fileSize": "158008293"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S02E30+%28A+Man+Called+Smart+-+Pt3%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S02e30 (a Man Called Smart - Pt3).ia",
+            "originalTitle": "Get Smart S02E30 (A Man Called Smart - Pt3).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S02E30 (A Man Called Smart - Pt3).ia.mp4",
+            "fileSize": "158150067"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E01+%28The+Spy+Who+Met+Himself%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e01 (the Spy Who Met Himself).ia",
+            "originalTitle": "Get Smart S03E01 (The Spy Who Met Himself).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E01 (The Spy Who Met Himself).ia.mp4",
+            "fileSize": "158104906"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E02+%28Viva+Smart%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e02 (viva Smart).ia",
+            "originalTitle": "Get Smart S03E02 (Viva Smart).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E02 (Viva Smart).ia.mp4",
+            "fileSize": "157969120"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E03+%28Witness+for+the+Persecution%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e03 (witness For The Persecution).ia",
+            "originalTitle": "Get Smart S03E03 (Witness for the Persecution).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E03 (Witness for the Persecution).ia.mp4",
+            "fileSize": "158492644"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E04+%28The+Spirit+Is+Willing%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e04 (the Spirit Is Willing).ia",
+            "originalTitle": "Get Smart S03E04 (The Spirit Is Willing).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E04 (The Spirit Is Willing).ia.mp4",
+            "fileSize": "157366964"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E05+%28Maxwell+Smart%2C+Private+Eye%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e05 (maxwell Smart, Private Eye).ia",
+            "originalTitle": "Get Smart S03E05 (Maxwell Smart, Private Eye).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E05 (Maxwell Smart, Private Eye).ia.mp4",
+            "fileSize": "155100196"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E06+%28Supersonic+Boom%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e06 (supersonic Boom).ia",
+            "originalTitle": "Get Smart S03E06 (Supersonic Boom).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E06 (Supersonic Boom).ia.mp4",
+            "fileSize": "158590493"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E07+%28One+of+Our+Olives+is+Missing%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e07 (one Of Our Olives Is Missing).ia",
+            "originalTitle": "Get Smart S03E07 (One of Our Olives is Missing).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E07 (One of Our Olives is Missing).ia.mp4",
+            "fileSize": "158152791"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E08+%28When+Good+Fellows+Get+Together%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e08 (when Good Fellows Get Together).ia",
+            "originalTitle": "Get Smart S03E08 (When Good Fellows Get Together).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E08 (When Good Fellows Get Together).ia.mp4",
+            "fileSize": "158483376"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E09+%28Dr.+Yes%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e09 (dr. Yes).ia",
+            "originalTitle": "Get Smart S03E09 (Dr. Yes).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E09 (Dr. Yes).ia.mp4",
+            "fileSize": "154957455"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E10+%28That+Old+Gang+of+Mine%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e10 (that Old Gang Of Mine).ia",
+            "originalTitle": "Get Smart S03E10 (That Old Gang of Mine).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E10 (That Old Gang of Mine).ia.mp4",
+            "fileSize": "158164585"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E11+%28The+Mild+Ones%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e11 (the Mild Ones).ia",
+            "originalTitle": "Get Smart S03E11 (The Mild Ones).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E11 (The Mild Ones).ia.mp4",
+            "fileSize": "156925392"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E12+%28Classification+Dead%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e12 (classification Dead).ia",
+            "originalTitle": "Get Smart S03E12 (Classification Dead).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E12 (Classification Dead).ia.mp4",
+            "fileSize": "158198030"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E13+%28The+Mysterious+Dr.+T%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e13 (the Mysterious Dr. T).ia",
+            "originalTitle": "Get Smart S03E13 (The Mysterious Dr. T).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E13 (The Mysterious Dr. T).ia.mp4",
+            "fileSize": "157936502"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E14+%28The+King+Lives%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e14 (the King Lives).ia",
+            "originalTitle": "Get Smart S03E14 (The King Lives).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E14 (The King Lives).ia.mp4",
+            "fileSize": "158541493"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E15+%28The+Groovy+Guru%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e15 (the Groovy Guru).ia",
+            "originalTitle": "Get Smart S03E15 (The Groovy Guru).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E15 (The Groovy Guru).ia.mp4",
+            "fileSize": "158438821"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E16+%28The+Little+Black+Book+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e16 (the Little Black Book - Pt1).ia",
+            "originalTitle": "Get Smart S03E16 (The Little Black Book - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E16 (The Little Black Book - Pt1).ia.mp4",
+            "fileSize": "158252290"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E17+%28The+Little+Black+Book+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e17 (the Little Black Book - Pt2).ia",
+            "originalTitle": "Get Smart S03E17 (The Little Black Book - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E17 (The Little Black Book - Pt2).ia.mp4",
+            "fileSize": "157419658"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E18+%28Don%27t+Look+Back%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e18 (don't Look Back).ia",
+            "originalTitle": "Get Smart S03E18 (Don't Look Back).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E18 (Don't Look Back).ia.mp4",
+            "fileSize": "158172330"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E19+%2899+Loses+CONTROL%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e19 (99 Loses Control).ia",
+            "originalTitle": "Get Smart S03E19 (99 Loses CONTROL).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E19 (99 Loses CONTROL).ia.mp4",
+            "fileSize": "158423289"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E20+%28The+Wax+Max%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e20 (the Wax Max).ia",
+            "originalTitle": "Get Smart S03E20 (The Wax Max).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E20 (The Wax Max).ia.mp4",
+            "fileSize": "151978137"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E21+%28Operation+Ridiculous%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e21 (operation Ridiculous).ia",
+            "originalTitle": "Get Smart S03E21 (Operation Ridiculous).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E21 (Operation Ridiculous).ia.mp4",
+            "fileSize": "158056154"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E22+%28Spy%2C+Spy%2C+Birdie%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e22 (spy, Spy, Birdie).ia",
+            "originalTitle": "Get Smart S03E22 (Spy, Spy, Birdie).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E22 (Spy, Spy, Birdie).ia.mp4",
+            "fileSize": "151987725"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E23+%28Run%2C+Robot%2C+Run%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e23 (run, Robot, Run).ia",
+            "originalTitle": "Get Smart S03E23 (Run, Robot, Run).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E23 (Run, Robot, Run).ia.mp4",
+            "fileSize": "158127458"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E24+%28The+Hot+Line%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e24 (the Hot Line).ia",
+            "originalTitle": "Get Smart S03E24 (The Hot Line).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E24 (The Hot Line).ia.mp4",
+            "fileSize": "158178222"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E25+%28Die+Spy%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e25 (die Spy).ia",
+            "originalTitle": "Get Smart S03E25 (Die Spy).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E25 (Die Spy).ia.mp4",
+            "fileSize": "158318403"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S03E26+%28The+Reluctant+Redhead%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S03e26 (the Reluctant Redhead).ia",
+            "originalTitle": "Get Smart S03E26 (The Reluctant Redhead).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S03E26 (The Reluctant Redhead).ia.mp4",
+            "fileSize": "158321151"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E01+%28The+Impossible+Mission%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e01 (the Impossible Mission).ia",
+            "originalTitle": "Get Smart S04E01 (The Impossible Mission).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E01 (The Impossible Mission).ia.mp4",
+            "fileSize": "155785329"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E02+%28Snoopy+Smart+vs.+the+Red+Baron%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e02 (snoopy Smart Vs. The Red Baron).ia",
+            "originalTitle": "Get Smart S04E02 (Snoopy Smart vs. the Red Baron).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E02 (Snoopy Smart vs. the Red Baron).ia.mp4",
+            "fileSize": "155220192"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E03+%28Closely+Watched+Planes%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e03 (closely Watched Planes).ia",
+            "originalTitle": "Get Smart S04E03 (Closely Watched Planes).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E03 (Closely Watched Planes).ia.mp4",
+            "fileSize": "153642504"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E04+%28The+Secret+of+Sam+Vittorio%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e04 (the Secret Of Sam Vittorio).ia",
+            "originalTitle": "Get Smart S04E04 (The Secret of Sam Vittorio).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E04 (The Secret of Sam Vittorio).ia.mp4",
+            "fileSize": "153656737"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E05+%28Diamonds+Are+a+Spy%27s+Best+Friend%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e05 (diamonds Are A Spy's Best Friend).ia",
+            "originalTitle": "Get Smart S04E05 (Diamonds Are a Spy's Best Friend).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E05 (Diamonds Are a Spy's Best Friend).ia.mp4",
+            "fileSize": "153911303"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E06+%28The+Worst+Best+Man%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e06 (the Worst Best Man).ia",
+            "originalTitle": "Get Smart S04E06 (The Worst Best Man).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E06 (The Worst Best Man).ia.mp4",
+            "fileSize": "153897818"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E07+%28A+Tale+of+Two+Tails%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e07 (a Tale Of Two Tails).ia",
+            "originalTitle": "Get Smart S04E07 (A Tale of Two Tails).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E07 (A Tale of Two Tails).ia.mp4",
+            "fileSize": "153754904"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E08+%28The+Return+of+the+Ancient+Mariner%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e08 (the Return Of The Ancient Mariner).ia",
+            "originalTitle": "Get Smart S04E08 (The Return of the Ancient Mariner).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E08 (The Return of the Ancient Mariner).ia.mp4",
+            "fileSize": "153349642"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E09+%28With+Love+and+Twitches%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e09 (with Love And Twitches).ia",
+            "originalTitle": "Get Smart S04E09 (With Love and Twitches).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E09 (With Love and Twitches).ia.mp4",
+            "fileSize": "153461366"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E10+%28The+Laser+Blazer%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e10 (the Laser Blazer).ia",
+            "originalTitle": "Get Smart S04E10 (The Laser Blazer).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E10 (The Laser Blazer).ia.mp4",
+            "fileSize": "153994498"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E11+%28The+Farkas+Fracas%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e11 (the Farkas Fracas).ia",
+            "originalTitle": "Get Smart S04E11 (The Farkas Fracas).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E11 (The Farkas Fracas).ia.mp4",
+            "fileSize": "154037055"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E12+%28Temporarily+Out+of+CONTROL%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e12 (temporarily Out Of Control).ia",
+            "originalTitle": "Get Smart S04E12 (Temporarily Out of CONTROL).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E12 (Temporarily Out of CONTROL).ia.mp4",
+            "fileSize": "153285663"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E13+%28Schwartz%27s+Island%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e13 (schwartz's Island).ia",
+            "originalTitle": "Get Smart S04E13 (Schwartz's Island).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E13 (Schwartz's Island).ia.mp4",
+            "fileSize": "153224944"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E14+%28One+Nation+Invisible%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e14 (one Nation Invisible).ia",
+            "originalTitle": "Get Smart S04E14 (One Nation Invisible).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E14 (One Nation Invisible).ia.mp4",
+            "fileSize": "153103923"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E15+%28Hurray+for+Hollywood%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e15 (hurray For Hollywood).ia",
+            "originalTitle": "Get Smart S04E15 (Hurray for Hollywood).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E15 (Hurray for Hollywood).ia.mp4",
+            "fileSize": "153796175"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E16+%28The+Day+They+Raided+the+Knights%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e16 (the Day They Raided The Knights).ia",
+            "originalTitle": "Get Smart S04E16 (The Day They Raided the Knights).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E16 (The Day They Raided the Knights).ia.mp4",
+            "fileSize": "153521686"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E17+%28Tequila+Mockingbird%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e17 (tequila Mockingbird).ia",
+            "originalTitle": "Get Smart S04E17 (Tequila Mockingbird).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E17 (Tequila Mockingbird).ia.mp4",
+            "fileSize": "153645502"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E18+%28I+Shot+86+Today%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e18 (i Shot 86 Today).ia",
+            "originalTitle": "Get Smart S04E18 (I Shot 86 Today).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E18 (I Shot 86 Today).ia.mp4",
+            "fileSize": "153587529"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E19+%28Absorb+the+Greek%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e19 (absorb The Greek).ia",
+            "originalTitle": "Get Smart S04E19 (Absorb the Greek).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E19 (Absorb the Greek).ia.mp4",
+            "fileSize": "153709638"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E20+%28To+Sire%2C+with+Love+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e20 (to Sire, With Love - Pt1).ia",
+            "originalTitle": "Get Smart S04E20 (To Sire, with Love - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E20 (To Sire, with Love - Pt1).ia.mp4",
+            "fileSize": "153698568"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E21+%28To+Sire%2C+with+Love+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e21 (to Sire, With Love - Pt2).ia",
+            "originalTitle": "Get Smart S04E21 (To Sire, with Love - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E21 (To Sire, with Love - Pt2).ia.mp4",
+            "fileSize": "153490182"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E22+%28Shock+it+to+Me%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e22 (shock It To Me).ia",
+            "originalTitle": "Get Smart S04E22 (Shock it to Me).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E22 (Shock it to Me).ia.mp4",
+            "fileSize": "153777225"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E23+%28Leadside%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e23 (leadside).ia",
+            "originalTitle": "Get Smart S04E23 (Leadside).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E23 (Leadside).ia.mp4",
+            "fileSize": "153895830"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E24+%28Greer+Windows%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e24 (greer Windows).ia",
+            "originalTitle": "Get Smart S04E24 (Greer Windows).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E24 (Greer Windows).ia.mp4",
+            "fileSize": "153733120"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E25+%28The+Not-So-Great+Escape+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e25 (the Not-so-great Escape - Pt1).ia",
+            "originalTitle": "Get Smart S04E25 (The Not-So-Great Escape - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E25 (The Not-So-Great Escape - Pt1).ia.mp4",
+            "fileSize": "153608628"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S04E26+%28The+Not-So-Great+Escape+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S04e26 (the Not-so-great Escape - Pt2).ia",
+            "originalTitle": "Get Smart S04E26 (The Not-So-Great Escape - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S04E26 (The Not-So-Great Escape - Pt2).ia.mp4",
+            "fileSize": "153713845"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E01+%28Pheasant+Under+Glass%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e01 (pheasant Under Glass).ia",
+            "originalTitle": "Get Smart S05E01 (Pheasant Under Glass).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E01 (Pheasant Under Glass).ia.mp4",
+            "fileSize": "150999528"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E02+%28Ironhand%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e02 (ironhand).ia",
+            "originalTitle": "Get Smart S05E02 (Ironhand).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E02 (Ironhand).ia.mp4",
+            "fileSize": "150889389"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E03+%28Valerie+of+the+Dolls%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e03 (valerie Of The Dolls).ia",
+            "originalTitle": "Get Smart S05E03 (Valerie of the Dolls).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E03 (Valerie of the Dolls).ia.mp4",
+            "fileSize": "150853991"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E04+%28Window+often+Annie%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e04 (window Often Annie).ia",
+            "originalTitle": "Get Smart S05E04 (Window often Annie).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E04 (Window often Annie).ia.mp4",
+            "fileSize": "151084888"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E05+%28The+Treasure+of+C.+Errol+Madre%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e05 (the Treasure Of C. Errol Madre).ia",
+            "originalTitle": "Get Smart S05E05 (The Treasure of C. Errol Madre).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E05 (The Treasure of C. Errol Madre).ia.mp4",
+            "fileSize": "150909184"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E06+%28Smart+Fell+on+Alabama%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e06 (smart Fell On Alabama).ia",
+            "originalTitle": "Get Smart S05E06 (Smart Fell on Alabama).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E06 (Smart Fell on Alabama).ia.mp4",
+            "fileSize": "150992705"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E07+%28And+Baby+makes+Four+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e07 (and Baby Makes Four - Pt1).ia",
+            "originalTitle": "Get Smart S05E07 (And Baby makes Four - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E07 (And Baby makes Four - Pt1).ia.mp4",
+            "fileSize": "151180339"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E08+%28And+Baby+makes+Four+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e08 (and Baby Makes Four - Pt2).ia",
+            "originalTitle": "Get Smart S05E08 (And Baby makes Four - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E08 (And Baby makes Four - Pt2).ia.mp4",
+            "fileSize": "150603085"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E09+%28Physician+Impossible%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e09 (physician Impossible).ia",
+            "originalTitle": "Get Smart S05E09 (Physician Impossible).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E09 (Physician Impossible).ia.mp4",
+            "fileSize": "150887414"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E10+%28The+Apes+of+Rath%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e10 (the Apes Of Rath).ia",
+            "originalTitle": "Get Smart S05E10 (The Apes of Rath).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E10 (The Apes of Rath).ia.mp4",
+            "fileSize": "150735088"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E11+%28Age+Before+Duty%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e11 (age Before Duty).ia",
+            "originalTitle": "Get Smart S05E11 (Age Before Duty).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E11 (Age Before Duty).ia.mp4",
+            "fileSize": "150923639"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E12+%28Is+this+Trip+Necessary%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e12 (is This Trip Necessary).ia",
+            "originalTitle": "Get Smart S05E12 (Is this Trip Necessary).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E12 (Is this Trip Necessary).ia.mp4",
+            "fileSize": "150966369"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E13+%28Ice+Station+Siegfried%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e13 (ice Station Siegfried).ia",
+            "originalTitle": "Get Smart S05E13 (Ice Station Siegfried).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E13 (Ice Station Siegfried).ia.mp4",
+            "fileSize": "150845149"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E14+%28Moonlighting+Becomes+You%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e14 (moonlighting Becomes You).ia",
+            "originalTitle": "Get Smart S05E14 (Moonlighting Becomes You).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E14 (Moonlighting Becomes You).ia.mp4",
+            "fileSize": "150820363"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E15+%28House+of+Max+-+Pt1%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e15 (house Of Max - Pt1).ia",
+            "originalTitle": "Get Smart S05E15 (House of Max - Pt1).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E15 (House of Max - Pt1).ia.mp4",
+            "fileSize": "150784535"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E16+%28House+of+Max+-+Pt2%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e16 (house Of Max - Pt2).ia",
+            "originalTitle": "Get Smart S05E16 (House of Max - Pt2).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E16 (House of Max - Pt2).ia.mp4",
+            "fileSize": "150948821"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E17+%28Rebecca+of+Funny-Folk+Farm%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e17 (rebecca Of Funny-folk Farm).ia",
+            "originalTitle": "Get Smart S05E17 (Rebecca of Funny-Folk Farm).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E17 (Rebecca of Funny-Folk Farm).ia.mp4",
+            "fileSize": "150857044"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E18+%28The+Mess+of+Adrian+Listenger%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e18 (the Mess Of Adrian Listenger).ia",
+            "originalTitle": "Get Smart S05E18 (The Mess of Adrian Listenger).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E18 (The Mess of Adrian Listenger).ia.mp4",
+            "fileSize": "150965709"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E19+%28Witness+for+the+Execution%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e19 (witness For The Execution).ia",
+            "originalTitle": "Get Smart S05E19 (Witness for the Execution).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E19 (Witness for the Execution).ia.mp4",
+            "fileSize": "150770059"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E20+%28How+Green+was+my+Valet%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e20 (how Green Was My Valet).ia",
+            "originalTitle": "Get Smart S05E20 (How Green was my Valet).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E20 (How Green was my Valet).ia.mp4",
+            "fileSize": "150952490"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E21+%28And+Only+Two+Ninety-Nine%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e21 (and Only Two Ninety-nine).ia",
+            "originalTitle": "Get Smart S05E21 (And Only Two Ninety-Nine).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E21 (And Only Two Ninety-Nine).ia.mp4",
+            "fileSize": "150344643"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E22+%28Smartacus%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e22 (smartacus).ia",
+            "originalTitle": "Get Smart S05E22 (Smartacus).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E22 (Smartacus).ia.mp4",
+            "fileSize": "150772436"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E23+%28What%27s+It+All+About%2C+Algie%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e23 (what's It All About, Algie).ia",
+            "originalTitle": "Get Smart S05E23 (What's It All About, Algie).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E23 (What's It All About, Algie).ia.mp4",
+            "fileSize": "150757916"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E24+%28Hello%2C+Columbus+%E2%80%93+Goodbye%2C+America%29.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e24 (hello, Columbus \u2013 Goodbye, America)",
+            "originalTitle": "Get Smart S05E24 (Hello, Columbus \u2013 Goodbye, America).mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Get Smart S05E24 (Hello, Columbus \u2013 Goodbye, America).mp4",
+            "fileSize": "182718726"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E25+%28Do+I+Hear+a+Vaults%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e25 (do I Hear A Vaults).ia",
+            "originalTitle": "Get Smart S05E25 (Do I Hear a Vaults).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E25 (Do I Hear a Vaults).ia.mp4",
+            "fileSize": "144772471"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/get-smart\/Get+Smart+S05E26+%28I+Am+Curiously+Yellow%29.ia.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Get Smart S05e26 (i Am Curiously Yellow).ia",
+            "originalTitle": "Get Smart S05E26 (I Am Curiously Yellow).ia.mp4",
+            "originalFormat": "h.264 IA",
+            "fileName": "Get Smart S05E26 (I Am Curiously Yellow).ia.mp4",
+            "fileSize": "150790998"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T03:44:20+00:00",
+    "api_version": "1.0"
+}

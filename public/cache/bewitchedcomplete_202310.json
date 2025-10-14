@@ -1,0 +1,3574 @@
+{
+    "success": true,
+    "identifier": "bewitchedcomplete_202310",
+    "totalFiles": 768,
+    "videoFiles": 254,
+    "availableFormats": {
+        "MPEG4": 254,
+        "Item Tile": 1,
+        "Thumbnail": 508,
+        "Archive BitTorrent": 1,
+        "Metadata": 4
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E01+I+Darrin%2C+Take+This+Witch%2C+Samantha.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e01 I Darrin, Take This Witch, Samantha",
+            "originalTitle": "Bewitched S01E01 I Darrin, Take This Witch, Samantha.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E01 I Darrin, Take This Witch, Samantha.mp4",
+            "fileSize": "77315493"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E02+Be+It+Ever+so+Mortgaged.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e02 Be It Ever So Mortgaged",
+            "originalTitle": "Bewitched S01E02 Be It Ever so Mortgaged.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E02 Be It Ever so Mortgaged.mp4",
+            "fileSize": "66380369"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E03+It+Shouldn%27t+Happen+to+a+Dog.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e03 It Shouldn't Happen To A Dog",
+            "originalTitle": "Bewitched S01E03 It Shouldn't Happen to a Dog.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E03 It Shouldn't Happen to a Dog.mp4",
+            "fileSize": "70049513"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E04+Mother+Meets+What%27s+His+Name.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e04 Mother Meets What's His Name",
+            "originalTitle": "Bewitched S01E04 Mother Meets What's His Name.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E04 Mother Meets What's His Name.mp4",
+            "fileSize": "66499126"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E05+Help%2C+Help%2C+Don%27t+Save+Me.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e05 Help, Help, Don't Save Me",
+            "originalTitle": "Bewitched S01E05 Help, Help, Don't Save Me.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E05 Help, Help, Don't Save Me.mp4",
+            "fileSize": "66689416"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E06+Little+Pitchers+Have+Big+Fears.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e06 Little Pitchers Have Big Fears",
+            "originalTitle": "Bewitched S01E06 Little Pitchers Have Big Fears.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E06 Little Pitchers Have Big Fears.mp4",
+            "fileSize": "89988848"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E07+The+Witches+Are+Out.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e07 The Witches Are Out",
+            "originalTitle": "Bewitched S01E07 The Witches Are Out.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E07 The Witches Are Out.mp4",
+            "fileSize": "70840193"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E08+Witch+or+Wife.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e08 Witch Or Wife",
+            "originalTitle": "Bewitched S01E08 Witch or Wife.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E08 Witch or Wife.mp4",
+            "fileSize": "74986262"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E09+The+Girl+Reporter.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e09 The Girl Reporter",
+            "originalTitle": "Bewitched S01E09 The Girl Reporter.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E09 The Girl Reporter.mp4",
+            "fileSize": "74077008"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E10+Just+One+Happy+Family.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e10 Just One Happy Family",
+            "originalTitle": "Bewitched S01E10 Just One Happy Family.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E10 Just One Happy Family.mp4",
+            "fileSize": "74567578"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E11+It+Takes+One+to+Know+One.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e11 It Takes One To Know One",
+            "originalTitle": "Bewitched S01E11 It Takes One to Know One.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E11 It Takes One to Know One.mp4",
+            "fileSize": "72186373"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E12+...And+Something+Makes+Three.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e12 ...and Something Makes Three",
+            "originalTitle": "Bewitched S01E12 ...And Something Makes Three.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E12 ...And Something Makes Three.mp4",
+            "fileSize": "71989058"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E13+Love+Is+Blind.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e13 Love Is Blind",
+            "originalTitle": "Bewitched S01E13 Love Is Blind.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E13 Love Is Blind.mp4",
+            "fileSize": "74643024"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E14+Samantha+Meets+the+Folks.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e14 Samantha Meets The Folks",
+            "originalTitle": "Bewitched S01E14 Samantha Meets the Folks.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E14 Samantha Meets the Folks.mp4",
+            "fileSize": "62897566"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E15+A+Vision+of+Sugar+Plums.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e15 A Vision Of Sugar Plums",
+            "originalTitle": "Bewitched S01E15 A Vision of Sugar Plums.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E15 A Vision of Sugar Plums.mp4",
+            "fileSize": "93306759"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E16+It%27s+Magic.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e16 It's Magic",
+            "originalTitle": "Bewitched S01E16 It's Magic.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E16 It's Magic.mp4",
+            "fileSize": "74353156"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E17+A+Is+for+Aardvark.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e17 A Is For Aardvark",
+            "originalTitle": "Bewitched S01E17 A Is for Aardvark.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E17 A Is for Aardvark.mp4",
+            "fileSize": "65204899"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E18+The+Cat%27s+Meow.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e18 The Cat's Meow",
+            "originalTitle": "Bewitched S01E18 The Cat's Meow.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E18 The Cat's Meow.mp4",
+            "fileSize": "62651072"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E19+A+Nice+Little+Dinner+Party.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e19 A Nice Little Dinner Party",
+            "originalTitle": "Bewitched S01E19 A Nice Little Dinner Party.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E19 A Nice Little Dinner Party.mp4",
+            "fileSize": "60586035"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E20+Your+Witch+Is+Showing.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e20 Your Witch Is Showing",
+            "originalTitle": "Bewitched S01E20 Your Witch Is Showing.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E20 Your Witch Is Showing.mp4",
+            "fileSize": "65952282"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E21+Ling+Ling.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e21 Ling Ling",
+            "originalTitle": "Bewitched S01E21 Ling Ling.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E21 Ling Ling.mp4",
+            "fileSize": "69083416"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E22+Eye+of+the+Beholder.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e22 Eye Of The Beholder",
+            "originalTitle": "Bewitched S01E22 Eye of the Beholder.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E22 Eye of the Beholder.mp4",
+            "fileSize": "72567589"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E23+Red+Light%2C+Green+Light.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e23 Red Light, Green Light",
+            "originalTitle": "Bewitched S01E23 Red Light, Green Light.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E23 Red Light, Green Light.mp4",
+            "fileSize": "64337068"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E24+Which+Witch+Is+Which.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e24 Which Witch Is Which",
+            "originalTitle": "Bewitched S01E24 Which Witch Is Which.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E24 Which Witch Is Which.mp4",
+            "fileSize": "72104761"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E25+Pleasure+O%27Riley.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e25 Pleasure O'riley",
+            "originalTitle": "Bewitched S01E25 Pleasure O'Riley.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E25 Pleasure O'Riley.mp4",
+            "fileSize": "72864503"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E26+Driving+Is+the+Only+Way+to+Fly.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e26 Driving Is The Only Way To Fly",
+            "originalTitle": "Bewitched S01E26 Driving Is the Only Way to Fly.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E26 Driving Is the Only Way to Fly.mp4",
+            "fileSize": "62715829"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E27+There%27s+No+Witch+Like+an+Old+Witch.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e27 There's No Witch Like An Old Witch",
+            "originalTitle": "Bewitched S01E27 There's No Witch Like an Old Witch.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E27 There's No Witch Like an Old Witch.mp4",
+            "fileSize": "75035576"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E28+Open+the+Door%2C+Witchcraft.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e28 Open The Door, Witchcraft",
+            "originalTitle": "Bewitched S01E28 Open the Door, Witchcraft.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E28 Open the Door, Witchcraft.mp4",
+            "fileSize": "64586251"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E29+Abner+Kadabra.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e29 Abner Kadabra",
+            "originalTitle": "Bewitched S01E29 Abner Kadabra.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E29 Abner Kadabra.mp4",
+            "fileSize": "68268052"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E30+George+the+Warlock.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e30 George The Warlock",
+            "originalTitle": "Bewitched S01E30 George the Warlock.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E30 George the Warlock.mp4",
+            "fileSize": "67134795"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E31+That+Was+My+Wife.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e31 That Was My Wife",
+            "originalTitle": "Bewitched S01E31 That Was My Wife.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E31 That Was My Wife.mp4",
+            "fileSize": "66399631"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E32+Illegal+Separation.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e32 Illegal Separation",
+            "originalTitle": "Bewitched S01E32 Illegal Separation.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E32 Illegal Separation.mp4",
+            "fileSize": "62978572"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E33+A+Change+of+Face.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e33 A Change Of Face",
+            "originalTitle": "Bewitched S01E33 A Change of Face.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E33 A Change of Face.mp4",
+            "fileSize": "62925856"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E34+Remember+the+Main.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e34 Remember The Main",
+            "originalTitle": "Bewitched S01E34 Remember the Main.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E34 Remember the Main.mp4",
+            "fileSize": "72169224"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E35+Eat+at+Mario%27s.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e35 Eat At Mario's",
+            "originalTitle": "Bewitched S01E35 Eat at Mario's.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E35 Eat at Mario's.mp4",
+            "fileSize": "72097918"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S01E36+Cousin+Edgar.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S01e36 Cousin Edgar",
+            "originalTitle": "Bewitched S01E36 Cousin Edgar.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S01E36 Cousin Edgar.mp4",
+            "fileSize": "69012040"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E01+Alias+Darrin+Stephens.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e01 Alias Darrin Stephens",
+            "originalTitle": "Bewitched S02E01 Alias Darrin Stephens.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E01 Alias Darrin Stephens.mp4",
+            "fileSize": "69616670"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E02+A+Very+Special+Delivery.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e02 A Very Special Delivery",
+            "originalTitle": "Bewitched S02E02 A Very Special Delivery.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E02 A Very Special Delivery.mp4",
+            "fileSize": "64336133"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E03+We%27re+in+for+a+Bad+Spell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e03 We're In For A Bad Spell",
+            "originalTitle": "Bewitched S02E03 We're in for a Bad Spell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E03 We're in for a Bad Spell.mp4",
+            "fileSize": "75017881"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E04+My+Grandson%2C+The+Warlock.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e04 My Grandson, The Warlock",
+            "originalTitle": "Bewitched S02E04 My Grandson, The Warlock.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E04 My Grandson, The Warlock.mp4",
+            "fileSize": "68398592"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E05+The+Joker+Is+a+Card.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e05 The Joker Is A Card",
+            "originalTitle": "Bewitched S02E05 The Joker Is a Card.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E05 The Joker Is a Card.mp4",
+            "fileSize": "59465333"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E06+Take+Two+Aspirin+and+Half+a+Pint+of+Porpoise+Milk.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e06 Take Two Aspirin And Half A Pint Of Porpoise Milk",
+            "originalTitle": "Bewitched S02E06 Take Two Aspirin and Half a Pint of Porpoise Milk.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E06 Take Two Aspirin and Half a Pint of Porpoise Milk.mp4",
+            "fileSize": "60113162"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E07+Trick+or+Treat.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e07 Trick Or Treat",
+            "originalTitle": "Bewitched S02E07 Trick or Treat.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E07 Trick or Treat.mp4",
+            "fileSize": "70904027"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E08+The+Very+Informal+Dress.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e08 The Very Informal Dress",
+            "originalTitle": "Bewitched S02E08 The Very Informal Dress.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E08 The Very Informal Dress.mp4",
+            "fileSize": "61485711"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E09+And+Then+I+Wrote.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e09 And Then I Wrote",
+            "originalTitle": "Bewitched S02E09 And Then I Wrote.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E09 And Then I Wrote.mp4",
+            "fileSize": "67955931"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E10+Junior+Executive.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e10 Junior Executive",
+            "originalTitle": "Bewitched S02E10 Junior Executive.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E10 Junior Executive.mp4",
+            "fileSize": "62208378"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E11+Aunt+Clara%27s+Old+Flame.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e11 Aunt Clara's Old Flame",
+            "originalTitle": "Bewitched S02E11 Aunt Clara's Old Flame.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E11 Aunt Clara's Old Flame.mp4",
+            "fileSize": "65037117"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E12+A+Strange+Little+Visitor.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e12 A Strange Little Visitor",
+            "originalTitle": "Bewitched S02E12 A Strange Little Visitor.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E12 A Strange Little Visitor.mp4",
+            "fileSize": "66312190"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E13+My+Boss%2C+The+Teddy+Bear.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e13 My Boss, The Teddy Bear",
+            "originalTitle": "Bewitched S02E13 My Boss, The Teddy Bear.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E13 My Boss, The Teddy Bear.mp4",
+            "fileSize": "65680866"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E14+Speak+the+Truth.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e14 Speak The Truth",
+            "originalTitle": "Bewitched S02E14 Speak the Truth.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E14 Speak the Truth.mp4",
+            "fileSize": "67171315"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E15+A+Vision+of+Sugar+Plums.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e15 A Vision Of Sugar Plums",
+            "originalTitle": "Bewitched S02E15 A Vision of Sugar Plums.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E15 A Vision of Sugar Plums.mp4",
+            "fileSize": "86378560"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E16+The+Magic+Cabin.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e16 The Magic Cabin",
+            "originalTitle": "Bewitched S02E16 The Magic Cabin.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E16 The Magic Cabin.mp4",
+            "fileSize": "67350723"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E17+Maid+to+Order.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e17 Maid To Order",
+            "originalTitle": "Bewitched S02E17 Maid to Order.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E17 Maid to Order.mp4",
+            "fileSize": "64322393"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E18+And+Then+There+Were+Three.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e18 And Then There Were Three",
+            "originalTitle": "Bewitched S02E18 And Then There Were Three.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E18 And Then There Were Three.mp4",
+            "fileSize": "63246818"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E19+My+Baby%2C+The+Tycoon.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e19 My Baby, The Tycoon",
+            "originalTitle": "Bewitched S02E19 My Baby, The Tycoon.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E19 My Baby, The Tycoon.mp4",
+            "fileSize": "67781953"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E20+Samantha+Meets+the+Folks.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e20 Samantha Meets The Folks",
+            "originalTitle": "Bewitched S02E20 Samantha Meets the Folks.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E20 Samantha Meets the Folks.mp4",
+            "fileSize": "60775249"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E21+Fastest+Gun+on+Madison+Avenue.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e21 Fastest Gun On Madison Avenue",
+            "originalTitle": "Bewitched S02E21 Fastest Gun on Madison Avenue.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E21 Fastest Gun on Madison Avenue.mp4",
+            "fileSize": "62181617"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E22+The+Dancing+Bear.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e22 The Dancing Bear",
+            "originalTitle": "Bewitched S02E22 The Dancing Bear.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E22 The Dancing Bear.mp4",
+            "fileSize": "67246478"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E23+Double+Tate.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e23 Double Tate",
+            "originalTitle": "Bewitched S02E23 Double Tate.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E23 Double Tate.mp4",
+            "fileSize": "64138943"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E24+Samantha%2C+The+Dressmaker.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e24 Samantha, The Dressmaker",
+            "originalTitle": "Bewitched S02E24 Samantha, The Dressmaker.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E24 Samantha, The Dressmaker.mp4",
+            "fileSize": "67263925"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E25+The+Horse%27s+Mouth.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e25 The Horse's Mouth",
+            "originalTitle": "Bewitched S02E25 The Horse's Mouth.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E25 The Horse's Mouth.mp4",
+            "fileSize": "82540769"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E26+Baby%27s+First+Paragraph.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e26 Baby's First Paragraph",
+            "originalTitle": "Bewitched S02E26 Baby's First Paragraph.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E26 Baby's First Paragraph.mp4",
+            "fileSize": "68603679"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E27+The+Leprechaun.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e27 The Leprechaun",
+            "originalTitle": "Bewitched S02E27 The Leprechaun.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E27 The Leprechaun.mp4",
+            "fileSize": "60785879"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E28+Double+Split.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e28 Double Split",
+            "originalTitle": "Bewitched S02E28 Double Split.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E28 Double Split.mp4",
+            "fileSize": "60766980"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E29+Disappearing+Samantha.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e29 Disappearing Samantha",
+            "originalTitle": "Bewitched S02E29 Disappearing Samantha.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E29 Disappearing Samantha.mp4",
+            "fileSize": "60958662"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E30+Follow+That+Witch+Pt+1.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e30 Follow That Witch Pt 1",
+            "originalTitle": "Bewitched S02E30 Follow That Witch Pt 1.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E30 Follow That Witch Pt 1.mp4",
+            "fileSize": "66436974"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E31+Follow+That+Witch+Pt+2.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e31 Follow That Witch Pt 2",
+            "originalTitle": "Bewitched S02E31 Follow That Witch Pt 2.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E31 Follow That Witch Pt 2.mp4",
+            "fileSize": "70428467"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E32+A+Bum+Raps.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e32 A Bum Raps",
+            "originalTitle": "Bewitched S02E32 A Bum Raps.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E32 A Bum Raps.mp4",
+            "fileSize": "61898468"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E33+Divided+He+Falls.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e33 Divided He Falls",
+            "originalTitle": "Bewitched S02E33 Divided He Falls.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E33 Divided He Falls.mp4",
+            "fileSize": "67934760"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E34+Man%27s+Best+Friend.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e34 Man's Best Friend",
+            "originalTitle": "Bewitched S02E34 Man's Best Friend.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E34 Man's Best Friend.mp4",
+            "fileSize": "68356446"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E35+The+Catnapper.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e35 The Catnapper",
+            "originalTitle": "Bewitched S02E35 The Catnapper.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E35 The Catnapper.mp4",
+            "fileSize": "73211317"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E36+What+Every+Young+Man+Should+Know.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e36 What Every Young Man Should Know",
+            "originalTitle": "Bewitched S02E36 What Every Young Man Should Know.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E36 What Every Young Man Should Know.mp4",
+            "fileSize": "66748008"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E37+The+Girl+with+the+Golden+Nose.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e37 The Girl With The Golden Nose",
+            "originalTitle": "Bewitched S02E37 The Girl with the Golden Nose.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E37 The Girl with the Golden Nose.mp4",
+            "fileSize": "60299347"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S02E38+Prodigy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S02e38 Prodigy",
+            "originalTitle": "Bewitched S02E38 Prodigy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S02E38 Prodigy.mp4",
+            "fileSize": "63859430"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E01+Nobody%27s+Perfect.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e01 Nobody's Perfect",
+            "originalTitle": "Bewitched S03E01 Nobody's Perfect.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E01 Nobody's Perfect.mp4",
+            "fileSize": "63615481"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E02+The+Moment+of+Truth.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e02 The Moment Of Truth",
+            "originalTitle": "Bewitched S03E02 The Moment of Truth.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E02 The Moment of Truth.mp4",
+            "fileSize": "65721263"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E03+Witches+and+Warlocks+Are+My+Favorite+Things.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e03 Witches And Warlocks Are My Favorite Things",
+            "originalTitle": "Bewitched S03E03 Witches and Warlocks Are My Favorite Things.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E03 Witches and Warlocks Are My Favorite Things.mp4",
+            "fileSize": "61909864"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E04+Accidental+Twins.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e04 Accidental Twins",
+            "originalTitle": "Bewitched S03E04 Accidental Twins.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E04 Accidental Twins.mp4",
+            "fileSize": "76439785"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E05+A+Most+Unusual+Wood+Nymph.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e05 A Most Unusual Wood Nymph",
+            "originalTitle": "Bewitched S03E05 A Most Unusual Wood Nymph.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E05 A Most Unusual Wood Nymph.mp4",
+            "fileSize": "78332601"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E06+Endora+Moves+in+for+a+Spell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e06 Endora Moves In For A Spell",
+            "originalTitle": "Bewitched S03E06 Endora Moves in for a Spell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E06 Endora Moves in for a Spell.mp4",
+            "fileSize": "66444791"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E07+Twitch+or+Treat.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e07 Twitch Or Treat",
+            "originalTitle": "Bewitched S03E07 Twitch or Treat.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E07 Twitch or Treat.mp4",
+            "fileSize": "75551342"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E08+Dangerous+Diaper+Dan.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e08 Dangerous Diaper Dan",
+            "originalTitle": "Bewitched S03E08 Dangerous Diaper Dan.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E08 Dangerous Diaper Dan.mp4",
+            "fileSize": "68836356"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E09+The+Short%2C+Happy+Circuit+of+Aunt+Clara.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e09 The Short, Happy Circuit Of Aunt Clara",
+            "originalTitle": "Bewitched S03E09 The Short, Happy Circuit of Aunt Clara.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E09 The Short, Happy Circuit of Aunt Clara.mp4",
+            "fileSize": "61811700"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E10+I%27d+Rather+Twitch+Than+Fight.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e10 I'd Rather Twitch Than Fight",
+            "originalTitle": "Bewitched S03E10 I'd Rather Twitch Than Fight.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E10 I'd Rather Twitch Than Fight.mp4",
+            "fileSize": "67756929"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E11+Oedipus+Hex.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e11 Oedipus Hex",
+            "originalTitle": "Bewitched S03E11 Oedipus Hex.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E11 Oedipus Hex.mp4",
+            "fileSize": "81086771"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E12+Sam%27s+Spooky+Chair.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e12 Sam's Spooky Chair",
+            "originalTitle": "Bewitched S03E12 Sam's Spooky Chair.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E12 Sam's Spooky Chair.mp4",
+            "fileSize": "67997219"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E13+My+Friend+Ben.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e13 My Friend Ben",
+            "originalTitle": "Bewitched S03E13 My Friend Ben.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E13 My Friend Ben.mp4",
+            "fileSize": "72044031"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E14+Samantha+for+the+Defense.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e14 Samantha For The Defense",
+            "originalTitle": "Bewitched S03E14 Samantha for the Defense.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E14 Samantha for the Defense.mp4",
+            "fileSize": "59438279"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E15+A+Gazebo+Never+Forgets.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e15 A Gazebo Never Forgets",
+            "originalTitle": "Bewitched S03E15 A Gazebo Never Forgets.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E15 A Gazebo Never Forgets.mp4",
+            "fileSize": "75999679"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E16+Soapbox+Derby.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e16 Soapbox Derby",
+            "originalTitle": "Bewitched S03E16 Soapbox Derby.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E16 Soapbox Derby.mp4",
+            "fileSize": "69208393"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E17+Sam+in+the+Moon.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e17 Sam In The Moon",
+            "originalTitle": "Bewitched S03E17 Sam in the Moon.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E17 Sam in the Moon.mp4",
+            "fileSize": "55573882"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E18+Hoho+the+Clown.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e18 Hoho The Clown",
+            "originalTitle": "Bewitched S03E18 Hoho the Clown.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E18 Hoho the Clown.mp4",
+            "fileSize": "75023230"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E19+Super+Car.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e19 Super Car",
+            "originalTitle": "Bewitched S03E19 Super Car.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E19 Super Car.mp4",
+            "fileSize": "70267402"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E20+The+Corn+Is+As+High+As+a+Guernsey%27s+Eye.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e20 The Corn Is As High As A Guernsey's Eye",
+            "originalTitle": "Bewitched S03E20 The Corn Is As High As a Guernsey's Eye.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E20 The Corn Is As High As a Guernsey's Eye.mp4",
+            "fileSize": "61167283"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E21+The+Trial+and+Error+of+Aunt+Clara.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e21 The Trial And Error Of Aunt Clara",
+            "originalTitle": "Bewitched S03E21 The Trial and Error of Aunt Clara.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E21 The Trial and Error of Aunt Clara.mp4",
+            "fileSize": "63368594"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E22+Three+Wishes.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e22 Three Wishes",
+            "originalTitle": "Bewitched S03E22 Three Wishes.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E22 Three Wishes.mp4",
+            "fileSize": "70034029"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E23+I+Remember+You...Sometimes.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e23 I Remember You...sometimes",
+            "originalTitle": "Bewitched S03E23 I Remember You...Sometimes.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E23 I Remember You...Sometimes.mp4",
+            "fileSize": "67005787"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E24+Art+for+Sam%27s+Sake.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e24 Art For Sam's Sake",
+            "originalTitle": "Bewitched S03E24 Art for Sam's Sake.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E24 Art for Sam's Sake.mp4",
+            "fileSize": "80659021"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E25+Charlie+Harper%2C+Winner.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e25 Charlie Harper, Winner",
+            "originalTitle": "Bewitched S03E25 Charlie Harper, Winner.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E25 Charlie Harper, Winner.mp4",
+            "fileSize": "63201508"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E26+Aunt+Clara%27s+Victoria+Victory.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e26 Aunt Clara's Victoria Victory",
+            "originalTitle": "Bewitched S03E26 Aunt Clara's Victoria Victory.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E26 Aunt Clara's Victoria Victory.mp4",
+            "fileSize": "52901658"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E27+The+Crone+of+Cawdor.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e27 The Crone Of Cawdor",
+            "originalTitle": "Bewitched S03E27 The Crone of Cawdor.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E27 The Crone of Cawdor.mp4",
+            "fileSize": "63312539"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E28+No+More+Mr.+Nice+Guy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e28 No More Mr. Nice Guy",
+            "originalTitle": "Bewitched S03E28 No More Mr. Nice Guy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E28 No More Mr. Nice Guy.mp4",
+            "fileSize": "59509480"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E29+It%27s+Wishcraft.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e29 It's Wishcraft",
+            "originalTitle": "Bewitched S03E29 It's Wishcraft.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E29 It's Wishcraft.mp4",
+            "fileSize": "68211216"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E30+How+to+Fail+in+Business+with+All+Kinds+of+Help.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e30 How To Fail In Business With All Kinds Of Help",
+            "originalTitle": "Bewitched S03E30 How to Fail in Business with All Kinds of Help.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E30 How to Fail in Business with All Kinds of Help.mp4",
+            "fileSize": "70984669"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E31+Bewitched%2C+Bothered+and+Infuriated.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e31 Bewitched, Bothered And Infuriated",
+            "originalTitle": "Bewitched S03E31 Bewitched, Bothered and Infuriated.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E31 Bewitched, Bothered and Infuriated.mp4",
+            "fileSize": "76602804"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E32+Nobody+but+a+Frog+Knows+How+to+Live.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e32 Nobody But A Frog Knows How To Live",
+            "originalTitle": "Bewitched S03E32 Nobody but a Frog Knows How to Live.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E32 Nobody but a Frog Knows How to Live.mp4",
+            "fileSize": "75315911"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S03E33+There%27s+Gold+in+Them+Thar+Pills.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S03e33 There's Gold In Them Thar Pills",
+            "originalTitle": "Bewitched S03E33 There's Gold in Them Thar Pills.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S03E33 There's Gold in Them Thar Pills.mp4",
+            "fileSize": "70327192"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E01+Long+Live+the+Queen.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e01 Long Live The Queen",
+            "originalTitle": "Bewitched S04E01 Long Live the Queen.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E01 Long Live the Queen.mp4",
+            "fileSize": "78242006"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E02+Toys+in+Babeland.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e02 Toys In Babeland",
+            "originalTitle": "Bewitched S04E02 Toys in Babeland.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E02 Toys in Babeland.mp4",
+            "fileSize": "72450926"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E03+Business%2C+Italian+Style.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e03 Business, Italian Style",
+            "originalTitle": "Bewitched S04E03 Business, Italian Style.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E03 Business, Italian Style.mp4",
+            "fileSize": "74102169"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E04+Double%2C+Double%2C+Toil+and+Trouble.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e04 Double, Double, Toil And Trouble",
+            "originalTitle": "Bewitched S04E04 Double, Double, Toil and Trouble.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E04 Double, Double, Toil and Trouble.mp4",
+            "fileSize": "76203206"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E05+Cheap%2C+Cheap.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e05 Cheap, Cheap",
+            "originalTitle": "Bewitched S04E05 Cheap, Cheap.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E05 Cheap, Cheap.mp4",
+            "fileSize": "58824938"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E06+No+Zip+in+My+Zap.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e06 No Zip In My Zap",
+            "originalTitle": "Bewitched S04E06 No Zip in My Zap.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E06 No Zip in My Zap.mp4",
+            "fileSize": "65047365"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E07+Birdies%2C+Bogies%2C+and+Baxter.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e07 Birdies, Bogies, And Baxter",
+            "originalTitle": "Bewitched S04E07 Birdies, Bogies, and Baxter.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E07 Birdies, Bogies, and Baxter.mp4",
+            "fileSize": "81801431"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E08+A+Safe+and+Sane+Halloween.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e08 A Safe And Sane Halloween",
+            "originalTitle": "Bewitched S04E08 A Safe and Sane Halloween.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E08 A Safe and Sane Halloween.mp4",
+            "fileSize": "69603740"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E09+Out+of+Sync%2C+Out+of+Mind.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e09 Out Of Sync, Out Of Mind",
+            "originalTitle": "Bewitched S04E09 Out of Sync, Out of Mind.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E09 Out of Sync, Out of Mind.mp4",
+            "fileSize": "75905482"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E10+That+Was+No+Chick%2C+That+Was+My+Wife.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e10 That Was No Chick, That Was My Wife",
+            "originalTitle": "Bewitched S04E10 That Was No Chick, That Was My Wife.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E10 That Was No Chick, That Was My Wife.mp4",
+            "fileSize": "71105362"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E11+Allergic+to+Ancient+Macedonian+Dodo+Birds.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e11 Allergic To Ancient Macedonian Dodo Birds",
+            "originalTitle": "Bewitched S04E11 Allergic to Ancient Macedonian Dodo Birds.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E11 Allergic to Ancient Macedonian Dodo Birds.mp4",
+            "fileSize": "75142596"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E12+Samantha%27s+Thanksgiving+to+Remember.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e12 Samantha's Thanksgiving To Remember",
+            "originalTitle": "Bewitched S04E12 Samantha's Thanksgiving to Remember.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E12 Samantha's Thanksgiving to Remember.mp4",
+            "fileSize": "68410294"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E13+Solid+Gold+Mother-in-Law.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e13 Solid Gold Mother-in-law",
+            "originalTitle": "Bewitched S04E13 Solid Gold Mother-in-Law.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E13 Solid Gold Mother-in-Law.mp4",
+            "fileSize": "66732127"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E14+My+What+Big+Ears+You+Have.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e14 My What Big Ears You Have",
+            "originalTitle": "Bewitched S04E14 My What Big Ears You Have.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E14 My What Big Ears You Have.mp4",
+            "fileSize": "65689928"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E15+I+Get+Your+Nanny%2C+You+Get+My+Goat.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e15 I Get Your Nanny, You Get My Goat",
+            "originalTitle": "Bewitched S04E15 I Get Your Nanny, You Get My Goat.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E15 I Get Your Nanny, You Get My Goat.mp4",
+            "fileSize": "66783530"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E16+Humbug+Not+to+Be+Spoken+Here.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e16 Humbug Not To Be Spoken Here",
+            "originalTitle": "Bewitched S04E16 Humbug Not to Be Spoken Here.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E16 Humbug Not to Be Spoken Here.mp4",
+            "fileSize": "86514586"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E17+Samantha%27s+Da+Vinci+Dilemma.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e17 Samantha's Da Vinci Dilemma",
+            "originalTitle": "Bewitched S04E17 Samantha's Da Vinci Dilemma.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E17 Samantha's Da Vinci Dilemma.mp4",
+            "fileSize": "77596938"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E18+Once+in+a+Vial.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e18 Once In A Vial",
+            "originalTitle": "Bewitched S04E18 Once in a Vial.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E18 Once in a Vial.mp4",
+            "fileSize": "79097314"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E19+Snob+in+the+Grass.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e19 Snob In The Grass",
+            "originalTitle": "Bewitched S04E19 Snob in the Grass.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E19 Snob in the Grass.mp4",
+            "fileSize": "67433116"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E20+If+They+Never+Met.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e20 If They Never Met",
+            "originalTitle": "Bewitched S04E20 If They Never Met.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E20 If They Never Met.mp4",
+            "fileSize": "68425652"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E21+Hippie%2C+Hippie%2C+Hooray.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e21 Hippie, Hippie, Hooray",
+            "originalTitle": "Bewitched S04E21 Hippie, Hippie, Hooray.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E21 Hippie, Hippie, Hooray.mp4",
+            "fileSize": "69511612"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E22+A+Prince+of+a+Guy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e22 A Prince Of A Guy",
+            "originalTitle": "Bewitched S04E22 A Prince of a Guy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E22 A Prince of a Guy.mp4",
+            "fileSize": "73819985"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E23+McTavish.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e23 Mctavish",
+            "originalTitle": "Bewitched S04E23 McTavish.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E23 McTavish.mp4",
+            "fileSize": "68131227"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E24+How+Green+Was+My+Grass.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e24 How Green Was My Grass",
+            "originalTitle": "Bewitched S04E24 How Green Was My Grass.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E24 How Green Was My Grass.mp4",
+            "fileSize": "76384643"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E25+To+Twitch+or+Not+to+Twitch.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e25 To Twitch Or Not To Twitch",
+            "originalTitle": "Bewitched S04E25 To Twitch or Not to Twitch.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E25 To Twitch or Not to Twitch.mp4",
+            "fileSize": "56992791"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E26+Playmates.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e26 Playmates",
+            "originalTitle": "Bewitched S04E26 Playmates.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E26 Playmates.mp4",
+            "fileSize": "72168452"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E27+Tabitha%27s+Cranky+Spell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e27 Tabitha's Cranky Spell",
+            "originalTitle": "Bewitched S04E27 Tabitha's Cranky Spell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E27 Tabitha's Cranky Spell.mp4",
+            "fileSize": "66516707"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E28+I+Confess.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e28 I Confess",
+            "originalTitle": "Bewitched S04E28 I Confess.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E28 I Confess.mp4",
+            "fileSize": "75540871"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E29+A+Majority+of+Two.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e29 A Majority Of Two",
+            "originalTitle": "Bewitched S04E29 A Majority of Two.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E29 A Majority of Two.mp4",
+            "fileSize": "61129943"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E30+Samantha%27s+Secret+Saucer.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e30 Samantha's Secret Saucer",
+            "originalTitle": "Bewitched S04E30 Samantha's Secret Saucer.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E30 Samantha's Secret Saucer.mp4",
+            "fileSize": "69741193"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E31+The+No-Harm+Charm.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e31 The No-harm Charm",
+            "originalTitle": "Bewitched S04E31 The No-Harm Charm.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E31 The No-Harm Charm.mp4",
+            "fileSize": "65227765"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E32+Man+of+the+Year.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e32 Man Of The Year",
+            "originalTitle": "Bewitched S04E32 Man of the Year.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E32 Man of the Year.mp4",
+            "fileSize": "67408799"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S04E33+Splitsville.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S04e33 Splitsville",
+            "originalTitle": "Bewitched S04E33 Splitsville.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S04E33 Splitsville.mp4",
+            "fileSize": "58368534"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E01+Samantha%27s+Wedding+Present.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e01 Samantha's Wedding Present",
+            "originalTitle": "Bewitched S05E01 Samantha's Wedding Present.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E01 Samantha's Wedding Present.mp4",
+            "fileSize": "61694056"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E02+Samantha+Goes+South+for+a+Spell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e02 Samantha Goes South For A Spell",
+            "originalTitle": "Bewitched S05E02 Samantha Goes South for a Spell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E02 Samantha Goes South for a Spell.mp4",
+            "fileSize": "69996809"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E03+Samantha+on+the+Keyboard.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e03 Samantha On The Keyboard",
+            "originalTitle": "Bewitched S05E03 Samantha on the Keyboard.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E03 Samantha on the Keyboard.mp4",
+            "fileSize": "61921305"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E04+Darrin%2C+Gone+and+Forgotten.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e04 Darrin, Gone And Forgotten",
+            "originalTitle": "Bewitched S05E04 Darrin, Gone and Forgotten.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E04 Darrin, Gone and Forgotten.mp4",
+            "fileSize": "55532802"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E05+It%27s+So+Nice+to+Have+a+Spouse+Around+the+House.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e05 It's So Nice To Have A Spouse Around The House",
+            "originalTitle": "Bewitched S05E05 It's So Nice to Have a Spouse Around the House.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E05 It's So Nice to Have a Spouse Around the House.mp4",
+            "fileSize": "61027457"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E06+Mirror%2C+Mirror+on+the+Wall.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e06 Mirror, Mirror On The Wall",
+            "originalTitle": "Bewitched S05E06 Mirror, Mirror on the Wall.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E06 Mirror, Mirror on the Wall.mp4",
+            "fileSize": "75923347"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E07+Samantha%27s+French+Pastry.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e07 Samantha's French Pastry",
+            "originalTitle": "Bewitched S05E07 Samantha's French Pastry.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E07 Samantha's French Pastry.mp4",
+            "fileSize": "64395677"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E08+Is+It+Magic+or+Imagination.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e08 Is It Magic Or Imagination",
+            "originalTitle": "Bewitched S05E08 Is It Magic or Imagination.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E08 Is It Magic or Imagination.mp4",
+            "fileSize": "68199124"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E09+Samantha+Fights+City+Hall.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e09 Samantha Fights City Hall",
+            "originalTitle": "Bewitched S05E09 Samantha Fights City Hall.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E09 Samantha Fights City Hall.mp4",
+            "fileSize": "83392146"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E10+Samantha+Loses+Her+Voice.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e10 Samantha Loses Her Voice",
+            "originalTitle": "Bewitched S05E10 Samantha Loses Her Voice.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E10 Samantha Loses Her Voice.mp4",
+            "fileSize": "66501433"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E11+I+Don%27t+Want+to+Be+a+Toad%2C+I+Want+to+Be+a+Butterfly.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e11 I Don't Want To Be A Toad, I Want To Be A Butterfly",
+            "originalTitle": "Bewitched S05E11 I Don't Want to Be a Toad, I Want to Be a Butterfly.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E11 I Don't Want to Be a Toad, I Want to Be a Butterfly.mp4",
+            "fileSize": "67299741"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E12+Weep+No+More%2C+My+Willow.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e12 Weep No More, My Willow",
+            "originalTitle": "Bewitched S05E12 Weep No More, My Willow.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E12 Weep No More, My Willow.mp4",
+            "fileSize": "67979878"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E13+Instant+Courtesy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e13 Instant Courtesy",
+            "originalTitle": "Bewitched S05E13 Instant Courtesy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E13 Instant Courtesy.mp4",
+            "fileSize": "56130511"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E14+Samantha%27s+Super-Maid.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e14 Samantha's Super-maid",
+            "originalTitle": "Bewitched S05E14 Samantha's Super-Maid.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E14 Samantha's Super-Maid.mp4",
+            "fileSize": "77404482"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E15+Cousin+Serena+Strikes+Again+Pt+1.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e15 Cousin Serena Strikes Again Pt 1",
+            "originalTitle": "Bewitched S05E15 Cousin Serena Strikes Again Pt 1.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E15 Cousin Serena Strikes Again Pt 1.mp4",
+            "fileSize": "80287563"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E16+Cousin+Serena+Strikes+Again+Pt+2.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e16 Cousin Serena Strikes Again Pt 2",
+            "originalTitle": "Bewitched S05E16 Cousin Serena Strikes Again Pt 2.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E16 Cousin Serena Strikes Again Pt 2.mp4",
+            "fileSize": "59658573"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E17+One+Touch+of+Midas.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e17 One Touch Of Midas",
+            "originalTitle": "Bewitched S05E17 One Touch of Midas.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E17 One Touch of Midas.mp4",
+            "fileSize": "65360991"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E18+Samantha%2C+the+Bard.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e18 Samantha, The Bard",
+            "originalTitle": "Bewitched S05E18 Samantha, the Bard.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E18 Samantha, the Bard.mp4",
+            "fileSize": "64870913"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E19+Samantha%2C+the+Sculptress.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e19 Samantha, The Sculptress",
+            "originalTitle": "Bewitched S05E19 Samantha, the Sculptress.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E19 Samantha, the Sculptress.mp4",
+            "fileSize": "74500655"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E20+Mrs.+Stephens%2C+Where+are+You.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e20 Mrs. Stephens, Where Are You",
+            "originalTitle": "Bewitched S05E20 Mrs. Stephens, Where are You.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E20 Mrs. Stephens, Where are You.mp4",
+            "fileSize": "68572945"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E21+Marriage%2C+Witches%27+Style.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e21 Marriage, Witches' Style",
+            "originalTitle": "Bewitched S05E21 Marriage, Witches' Style.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E21 Marriage, Witches' Style.mp4",
+            "fileSize": "69253605"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E22+Going+Ape.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e22 Going Ape",
+            "originalTitle": "Bewitched S05E22 Going Ape.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E22 Going Ape.mp4",
+            "fileSize": "89868984"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E23+Tabitha%27s+Weekend.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e23 Tabitha's Weekend",
+            "originalTitle": "Bewitched S05E23 Tabitha's Weekend.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E23 Tabitha's Weekend.mp4",
+            "fileSize": "80501207"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E24+The+Battle+of+Burning+Oak.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e24 The Battle Of Burning Oak",
+            "originalTitle": "Bewitched S05E24 The Battle of Burning Oak.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E24 The Battle of Burning Oak.mp4",
+            "fileSize": "70695385"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E25+Samantha%27s+Power+Failure.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e25 Samantha's Power Failure",
+            "originalTitle": "Bewitched S05E25 Samantha's Power Failure.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E25 Samantha's Power Failure.mp4",
+            "fileSize": "76116013"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E26+Samantha+Twitches+for+UNICEF.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e26 Samantha Twitches For Unicef",
+            "originalTitle": "Bewitched S05E26 Samantha Twitches for UNICEF.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E26 Samantha Twitches for UNICEF.mp4",
+            "fileSize": "71159376"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E27+Daddy+Does+His+Thing.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e27 Daddy Does His Thing",
+            "originalTitle": "Bewitched S05E27 Daddy Does His Thing.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E27 Daddy Does His Thing.mp4",
+            "fileSize": "59447053"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E28+Samantha%27s+Good+News.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e28 Samantha's Good News",
+            "originalTitle": "Bewitched S05E28 Samantha's Good News.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E28 Samantha's Good News.mp4",
+            "fileSize": "76497220"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E29+Samantha%27s+Shopping+Spree.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e29 Samantha's Shopping Spree",
+            "originalTitle": "Bewitched S05E29 Samantha's Shopping Spree.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E29 Samantha's Shopping Spree.mp4",
+            "fileSize": "67583092"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S05E30+Samantha+and+Darrin+in+Mexico+City.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S05e30 Samantha And Darrin In Mexico City",
+            "originalTitle": "Bewitched S05E30 Samantha and Darrin in Mexico City.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S05E30 Samantha and Darrin in Mexico City.mp4",
+            "fileSize": "58505151"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E01+Samantha+and+the+Beanstalk.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e01 Samantha And The Beanstalk",
+            "originalTitle": "Bewitched S06E01 Samantha and the Beanstalk.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E01 Samantha and the Beanstalk.mp4",
+            "fileSize": "58432589"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E02+Samantha%27s+Yoo-Hoo+Maid.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e02 Samantha's Yoo-hoo Maid",
+            "originalTitle": "Bewitched S06E02 Samantha's Yoo-Hoo Maid.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E02 Samantha's Yoo-Hoo Maid.mp4",
+            "fileSize": "69311048"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E03+Samantha%27s+Caesar+Salad.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e03 Samantha's Caesar Salad",
+            "originalTitle": "Bewitched S06E03 Samantha's Caesar Salad.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E03 Samantha's Caesar Salad.mp4",
+            "fileSize": "80640194"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E04+Samantha%27s+Curious+Cravings.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e04 Samantha's Curious Cravings",
+            "originalTitle": "Bewitched S06E04 Samantha's Curious Cravings.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E04 Samantha's Curious Cravings.mp4",
+            "fileSize": "62516016"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E05+...And+Something+Makes+Four.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e05 ...and Something Makes Four",
+            "originalTitle": "Bewitched S06E05 ...And Something Makes Four.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E05 ...And Something Makes Four.mp4",
+            "fileSize": "55131351"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E06+Naming+Samantha%27s+New+Baby.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e06 Naming Samantha's New Baby",
+            "originalTitle": "Bewitched S06E06 Naming Samantha's New Baby.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E06 Naming Samantha's New Baby.mp4",
+            "fileSize": "71068928"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E07+To+Trick+or+Treat+or+Not+to+Trick+or+Treat.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e07 To Trick Or Treat Or Not To Trick Or Treat",
+            "originalTitle": "Bewitched S06E07 To Trick or Treat or Not to Trick or Treat.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E07 To Trick or Treat or Not to Trick or Treat.mp4",
+            "fileSize": "83692126"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E08+A+Bunny+for+Tabitha.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e08 A Bunny For Tabitha",
+            "originalTitle": "Bewitched S06E08 A Bunny for Tabitha.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E08 A Bunny for Tabitha.mp4",
+            "fileSize": "66620521"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E09+Samantha%27s+Secret+Spell.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e09 Samantha's Secret Spell",
+            "originalTitle": "Bewitched S06E09 Samantha's Secret Spell.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E09 Samantha's Secret Spell.mp4",
+            "fileSize": "76156718"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E10+Daddy+Comes+for+a+Visit.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e10 Daddy Comes For A Visit",
+            "originalTitle": "Bewitched S06E10 Daddy Comes for a Visit.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E10 Daddy Comes for a Visit.mp4",
+            "fileSize": "61365653"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E11+Darrin+the+Warlock.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e11 Darrin The Warlock",
+            "originalTitle": "Bewitched S06E11 Darrin the Warlock.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E11 Darrin the Warlock.mp4",
+            "fileSize": "64307970"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E12+Samantha%27s+Double+Mother+Trouble.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e12 Samantha's Double Mother Trouble",
+            "originalTitle": "Bewitched S06E12 Samantha's Double Mother Trouble.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E12 Samantha's Double Mother Trouble.mp4",
+            "fileSize": "72465396"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E13+You%27re+So+Agreeable.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e13 You're So Agreeable",
+            "originalTitle": "Bewitched S06E13 You're So Agreeable.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E13 You're So Agreeable.mp4",
+            "fileSize": "72283362"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E14+Santa+Comes+to+Visit+and+Stays+and+Stays.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e14 Santa Comes To Visit And Stays And Stays",
+            "originalTitle": "Bewitched S06E14 Santa Comes to Visit and Stays and Stays.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E14 Santa Comes to Visit and Stays and Stays.mp4",
+            "fileSize": "81330570"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E15+Samantha%27s+Better+Halves.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e15 Samantha's Better Halves",
+            "originalTitle": "Bewitched S06E15 Samantha's Better Halves.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E15 Samantha's Better Halves.mp4",
+            "fileSize": "63134776"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E16+Samantha%27s+Lost+Weekend.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e16 Samantha's Lost Weekend",
+            "originalTitle": "Bewitched S06E16 Samantha's Lost Weekend.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E16 Samantha's Lost Weekend.mp4",
+            "fileSize": "87809885"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E17+The+Phrase+Is+Familiar.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e17 The Phrase Is Familiar",
+            "originalTitle": "Bewitched S06E17 The Phrase Is Familiar.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E17 The Phrase Is Familiar.mp4",
+            "fileSize": "84688728"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E18+Samantha%27s+Secret+Is+Discovered.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e18 Samantha's Secret Is Discovered",
+            "originalTitle": "Bewitched S06E18 Samantha's Secret Is Discovered.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E18 Samantha's Secret Is Discovered.mp4",
+            "fileSize": "60102493"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E19+Tabitha%27s+Very+Own+Samantha.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e19 Tabitha's Very Own Samantha",
+            "originalTitle": "Bewitched S06E19 Tabitha's Very Own Samantha.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E19 Tabitha's Very Own Samantha.mp4",
+            "fileSize": "77946714"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E20+Super+Arthur.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e20 Super Arthur",
+            "originalTitle": "Bewitched S06E20 Super Arthur.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E20 Super Arthur.mp4",
+            "fileSize": "72260403"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E21+What+Makes+Darrin+Run.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e21 What Makes Darrin Run",
+            "originalTitle": "Bewitched S06E21 What Makes Darrin Run.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E21 What Makes Darrin Run.mp4",
+            "fileSize": "64320188"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E22+Serena+Stops+the+Show.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e22 Serena Stops The Show",
+            "originalTitle": "Bewitched S06E22 Serena Stops the Show.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E22 Serena Stops the Show.mp4",
+            "fileSize": "78731000"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E23+Just+a+Kid+Again.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e23 Just A Kid Again",
+            "originalTitle": "Bewitched S06E23 Just a Kid Again.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E23 Just a Kid Again.mp4",
+            "fileSize": "60560701"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E24+The+Generation+Zap.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e24 The Generation Zap",
+            "originalTitle": "Bewitched S06E24 The Generation Zap.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E24 The Generation Zap.mp4",
+            "fileSize": "65404012"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E25+Okay%2C+Who%27s+the+Wise+Witch.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e25 Okay, Who's The Wise Witch",
+            "originalTitle": "Bewitched S06E25 Okay, Who's the Wise Witch.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E25 Okay, Who's the Wise Witch.mp4",
+            "fileSize": "88558695"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E26+A+Chance+on+Love.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e26 A Chance On Love",
+            "originalTitle": "Bewitched S06E26 A Chance on Love.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E26 A Chance on Love.mp4",
+            "fileSize": "65280800"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E27+If+the+Shoe+Pinches.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e27 If The Shoe Pinches",
+            "originalTitle": "Bewitched S06E27 If the Shoe Pinches.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E27 If the Shoe Pinches.mp4",
+            "fileSize": "56039879"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E28+Mona+Sammy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e28 Mona Sammy",
+            "originalTitle": "Bewitched S06E28 Mona Sammy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E28 Mona Sammy.mp4",
+            "fileSize": "80392639"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E29+Turn+on+the+Old+Charm.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e29 Turn On The Old Charm",
+            "originalTitle": "Bewitched S06E29 Turn on the Old Charm.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E29 Turn on the Old Charm.mp4",
+            "fileSize": "54419575"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S06E30+Make+Love%2C+Not+Hate.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S06e30 Make Love, Not Hate",
+            "originalTitle": "Bewitched S06E30 Make Love, Not Hate.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S06E30 Make Love, Not Hate.mp4",
+            "fileSize": "64963104"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E01+To+Go+or+Not+to+Go%2C+That+is+the+Question.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e01 To Go Or Not To Go, That Is The Question",
+            "originalTitle": "Bewitched S07E01 To Go or Not to Go, That is the Question.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E01 To Go or Not to Go, That is the Question.mp4",
+            "fileSize": "70263087"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E02+Salem%2C+Here+We+Come.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e02 Salem, Here We Come",
+            "originalTitle": "Bewitched S07E02 Salem, Here We Come.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E02 Salem, Here We Come.mp4",
+            "fileSize": "61178499"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E03+The+Salem+Saga.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e03 The Salem Saga",
+            "originalTitle": "Bewitched S07E03 The Salem Saga.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E03 The Salem Saga.mp4",
+            "fileSize": "77967178"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E04+Samantha%27s+Hot+Bedwarmer.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e04 Samantha's Hot Bedwarmer",
+            "originalTitle": "Bewitched S07E04 Samantha's Hot Bedwarmer.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E04 Samantha's Hot Bedwarmer.mp4",
+            "fileSize": "64794194"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E05+Darrin+on+a+Pedestal.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e05 Darrin On A Pedestal",
+            "originalTitle": "Bewitched S07E05 Darrin on a Pedestal.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E05 Darrin on a Pedestal.mp4",
+            "fileSize": "64761920"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E06+Paul+Revere+Rides+Again.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e06 Paul Revere Rides Again",
+            "originalTitle": "Bewitched S07E06 Paul Revere Rides Again.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E06 Paul Revere Rides Again.mp4",
+            "fileSize": "61291660"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E07+Samantha%27s+Bad+Day+in+Salem.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e07 Samantha's Bad Day In Salem",
+            "originalTitle": "Bewitched S07E07 Samantha's Bad Day in Salem.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E07 Samantha's Bad Day in Salem.mp4",
+            "fileSize": "67169982"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E08+Samantha%27s+Old+Salem+Trip.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e08 Samantha's Old Salem Trip",
+            "originalTitle": "Bewitched S07E08 Samantha's Old Salem Trip.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E08 Samantha's Old Salem Trip.mp4",
+            "fileSize": "65078866"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E09+Samantha%27s+Pet+Warlock.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e09 Samantha's Pet Warlock",
+            "originalTitle": "Bewitched S07E09 Samantha's Pet Warlock.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E09 Samantha's Pet Warlock.mp4",
+            "fileSize": "69228145"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E10+Samantha%27s+Old+Man.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e10 Samantha's Old Man",
+            "originalTitle": "Bewitched S07E10 Samantha's Old Man.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E10 Samantha's Old Man.mp4",
+            "fileSize": "80644644"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E11+The+Corsican+Cousins.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e11 The Corsican Cousins",
+            "originalTitle": "Bewitched S07E11 The Corsican Cousins.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E11 The Corsican Cousins.mp4",
+            "fileSize": "102166948"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E12+Samantha%27s+Magic+Potion.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e12 Samantha's Magic Potion",
+            "originalTitle": "Bewitched S07E12 Samantha's Magic Potion.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E12 Samantha's Magic Potion.mp4",
+            "fileSize": "72208843"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E13+Sisters+at+Heart.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e13 Sisters At Heart",
+            "originalTitle": "Bewitched S07E13 Sisters at Heart.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E13 Sisters at Heart.mp4",
+            "fileSize": "67730071"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E14+Mother-in-Law+of+the+Year.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e14 Mother-in-law Of The Year",
+            "originalTitle": "Bewitched S07E14 Mother-in-Law of the Year.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E14 Mother-in-Law of the Year.mp4",
+            "fileSize": "61871847"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E15+Mary%2C+the+Good+Fairy.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e15 Mary, The Good Fairy",
+            "originalTitle": "Bewitched S07E15 Mary, the Good Fairy.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E15 Mary, the Good Fairy.mp4",
+            "fileSize": "70342160"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E16+The+Good+Fairy+Strikes+Again.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e16 The Good Fairy Strikes Again",
+            "originalTitle": "Bewitched S07E16 The Good Fairy Strikes Again.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E16 The Good Fairy Strikes Again.mp4",
+            "fileSize": "73631135"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E17+The+Return+of+Darrin+the+Bold.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e17 The Return Of Darrin The Bold",
+            "originalTitle": "Bewitched S07E17 The Return of Darrin the Bold.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E17 The Return of Darrin the Bold.mp4",
+            "fileSize": "72128676"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E18+The+House+That+Uncle+Arthur+Built.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e18 The House That Uncle Arthur Built",
+            "originalTitle": "Bewitched S07E18 The House That Uncle Arthur Built.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E18 The House That Uncle Arthur Built.mp4",
+            "fileSize": "66084204"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E19+Samantha+and+the+Troll.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e19 Samantha And The Troll",
+            "originalTitle": "Bewitched S07E19 Samantha and the Troll.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E19 Samantha and the Troll.mp4",
+            "fileSize": "65039589"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E20+This+Little+Piggie.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e20 This Little Piggie",
+            "originalTitle": "Bewitched S07E20 This Little Piggie.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E20 This Little Piggie.mp4",
+            "fileSize": "71683380"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E21+Mixed+Doubles.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e21 Mixed Doubles",
+            "originalTitle": "Bewitched S07E21 Mixed Doubles.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E21 Mixed Doubles.mp4",
+            "fileSize": "54157771"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E22+Darrin+Goes+Ape.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e22 Darrin Goes Ape",
+            "originalTitle": "Bewitched S07E22 Darrin Goes Ape.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E22 Darrin Goes Ape.mp4",
+            "fileSize": "77509377"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E23+Money+Happy+Returns.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e23 Money Happy Returns",
+            "originalTitle": "Bewitched S07E23 Money Happy Returns.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E23 Money Happy Returns.mp4",
+            "fileSize": "66330813"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E24+Out+of+the+Mouths+of+Babes.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e24 Out Of The Mouths Of Babes",
+            "originalTitle": "Bewitched S07E24 Out of the Mouths of Babes.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E24 Out of the Mouths of Babes.mp4",
+            "fileSize": "68568917"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E25+Sam%27s+Psychic+Pslip.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e25 Sam's Psychic Pslip",
+            "originalTitle": "Bewitched S07E25 Sam's Psychic Pslip.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E25 Sam's Psychic Pslip.mp4",
+            "fileSize": "56615993"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E26+Samantha%27s+Magic+Mirror.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e26 Samantha's Magic Mirror",
+            "originalTitle": "Bewitched S07E26 Samantha's Magic Mirror.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E26 Samantha's Magic Mirror.mp4",
+            "fileSize": "58727597"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E27+Laugh%2C+Clown%2C+Laugh.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e27 Laugh, Clown, Laugh",
+            "originalTitle": "Bewitched S07E27 Laugh, Clown, Laugh.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E27 Laugh, Clown, Laugh.mp4",
+            "fileSize": "62043809"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S07E28+Samantha+and+the+Antique+Doll.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S07e28 Samantha And The Antique Doll",
+            "originalTitle": "Bewitched S07E28 Samantha and the Antique Doll.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S07E28 Samantha and the Antique Doll.mp4",
+            "fileSize": "70021568"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E01+How+Not+to+Lose+Your+Head+to+King+Henry+VIII+Pt+1.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e01 How Not To Lose Your Head To King Henry Viii Pt 1",
+            "originalTitle": "Bewitched S08E01 How Not to Lose Your Head to King Henry VIII Pt 1.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E01 How Not to Lose Your Head to King Henry VIII Pt 1.mp4",
+            "fileSize": "96946957"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E02+How+Not+to+Lose+Your+Head+to+King+Henry+VIII+Pt+2.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e02 How Not To Lose Your Head To King Henry Viii Pt 2",
+            "originalTitle": "Bewitched S08E02 How Not to Lose Your Head to King Henry VIII Pt 2.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E02 How Not to Lose Your Head to King Henry VIII Pt 2.mp4",
+            "fileSize": "77537356"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E03+Samantha+and+the+Loch+Ness+Monster.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e03 Samantha And The Loch Ness Monster",
+            "originalTitle": "Bewitched S08E03 Samantha and the Loch Ness Monster.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E03 Samantha and the Loch Ness Monster.mp4",
+            "fileSize": "86477817"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E04+Samantha%27s+Not-So-Leaning+Tower+of+Pisa.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e04 Samantha's Not-so-leaning Tower Of Pisa",
+            "originalTitle": "Bewitched S08E04 Samantha's Not-So-Leaning Tower of Pisa.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E04 Samantha's Not-So-Leaning Tower of Pisa.mp4",
+            "fileSize": "65555488"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E05+Bewitched%2C+Bothered+and+Baldoni.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e05 Bewitched, Bothered And Baldoni",
+            "originalTitle": "Bewitched S08E05 Bewitched, Bothered and Baldoni.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E05 Bewitched, Bothered and Baldoni.mp4",
+            "fileSize": "64251115"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E06+Paris%2C+Witches%27+Style.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e06 Paris, Witches' Style",
+            "originalTitle": "Bewitched S08E06 Paris, Witches' Style.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E06 Paris, Witches' Style.mp4",
+            "fileSize": "67107534"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E07+The+Ghost+Who+Made+a+Spectre+of+Himself.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e07 The Ghost Who Made A Spectre Of Himself",
+            "originalTitle": "Bewitched S08E07 The Ghost Who Made a Spectre of Himself.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E07 The Ghost Who Made a Spectre of Himself.mp4",
+            "fileSize": "62746676"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E08+TV+or+Not+TV.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e08 Tv Or Not Tv",
+            "originalTitle": "Bewitched S08E08 TV or Not TV.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E08 TV or Not TV.mp4",
+            "fileSize": "55149697"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E09+A+Plague+on+Maurice+and+Samantha.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e09 A Plague On Maurice And Samantha",
+            "originalTitle": "Bewitched S08E09 A Plague on Maurice and Samantha.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E09 A Plague on Maurice and Samantha.mp4",
+            "fileSize": "72876067"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E10+Hansel+and+Gretel+in+Samanthaland.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e10 Hansel And Gretel In Samanthaland",
+            "originalTitle": "Bewitched S08E10 Hansel and Gretel in Samanthaland.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E10 Hansel and Gretel in Samanthaland.mp4",
+            "fileSize": "87846478"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E11+The+Warlock+in+the+Gray+Flannel+Suit.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e11 The Warlock In The Gray Flannel Suit",
+            "originalTitle": "Bewitched S08E11 The Warlock in the Gray Flannel Suit.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E11 The Warlock in the Gray Flannel Suit.mp4",
+            "fileSize": "67214641"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E12+The+Eight-Year+Itch+Witch.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e12 The Eight-year Itch Witch",
+            "originalTitle": "Bewitched S08E12 The Eight-Year Itch Witch.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E12 The Eight-Year Itch Witch.mp4",
+            "fileSize": "60972384"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E13+Three+Men+and+a+Witch+on+a+Horse.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e13 Three Men And A Witch On A Horse",
+            "originalTitle": "Bewitched S08E13 Three Men and a Witch on a Horse.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E13 Three Men and a Witch on a Horse.mp4",
+            "fileSize": "71598118"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E14+Adam%2C+Warlock+or+Washout.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e14 Adam, Warlock Or Washout",
+            "originalTitle": "Bewitched S08E14 Adam, Warlock or Washout.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E14 Adam, Warlock or Washout.mp4",
+            "fileSize": "64923087"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E15+Samantha%27s+Magic+Sitter.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e15 Samantha's Magic Sitter",
+            "originalTitle": "Bewitched S08E15 Samantha's Magic Sitter.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E15 Samantha's Magic Sitter.mp4",
+            "fileSize": "80552642"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E16+Samantha+Is+Earthbound.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e16 Samantha Is Earthbound",
+            "originalTitle": "Bewitched S08E16 Samantha Is Earthbound.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E16 Samantha Is Earthbound.mp4",
+            "fileSize": "81542775"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E17+Serena%27s+Richcraft.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e17 Serena's Richcraft",
+            "originalTitle": "Bewitched S08E17 Serena's Richcraft.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E17 Serena's Richcraft.mp4",
+            "fileSize": "68546863"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E18+Samantha+on+Thin+Ice.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e18 Samantha On Thin Ice",
+            "originalTitle": "Bewitched S08E18 Samantha on Thin Ice.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E18 Samantha on Thin Ice.mp4",
+            "fileSize": "74429344"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E19+Serena%27s+Youth+Pill.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e19 Serena's Youth Pill",
+            "originalTitle": "Bewitched S08E19 Serena's Youth Pill.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E19 Serena's Youth Pill.mp4",
+            "fileSize": "79265995"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E20+Tabitha%27s+First+Day+at+School.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e20 Tabitha's First Day At School",
+            "originalTitle": "Bewitched S08E20 Tabitha's First Day at School.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E20 Tabitha's First Day at School.mp4",
+            "fileSize": "69934425"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E21+George+Washington+Zapped+Here+Pt+1.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e21 George Washington Zapped Here Pt 1",
+            "originalTitle": "Bewitched S08E21 George Washington Zapped Here Pt 1.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E21 George Washington Zapped Here Pt 1.mp4",
+            "fileSize": "82284712"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E22+George+Washington+Zapped+Here+Pt+2.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e22 George Washington Zapped Here Pt 2",
+            "originalTitle": "Bewitched S08E22 George Washington Zapped Here Pt 2.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E22 George Washington Zapped Here Pt 2.mp4",
+            "fileSize": "73131609"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E23+School+Days%2C+School+Daze.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e23 School Days, School Daze",
+            "originalTitle": "Bewitched S08E23 School Days, School Daze.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E23 School Days, School Daze.mp4",
+            "fileSize": "73642685"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E24+A+Good+Turn+Never+Goes+Unpunished.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e24 A Good Turn Never Goes Unpunished",
+            "originalTitle": "Bewitched S08E24 A Good Turn Never Goes Unpunished.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E24 A Good Turn Never Goes Unpunished.mp4",
+            "fileSize": "61558043"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E25+Samantha%27s+Witchcraft+Blows+a+Fuse.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e25 Samantha's Witchcraft Blows A Fuse",
+            "originalTitle": "Bewitched S08E25 Samantha's Witchcraft Blows a Fuse.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E25 Samantha's Witchcraft Blows a Fuse.mp4",
+            "fileSize": "76254903"
+        },
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/bewitchedcomplete_202310\/Bewitched+S08E26+The+Truth%2C+Nothing+But+the+Truth%2C+So+Help+Me+Sam.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bewitched S08e26 The Truth, Nothing But The Truth, So Help Me Sam",
+            "originalTitle": "Bewitched S08E26 The Truth, Nothing But the Truth, So Help Me Sam.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bewitched S08E26 The Truth, Nothing But the Truth, So Help Me Sam.mp4",
+            "fileSize": "79391109"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T03:44:39+00:00",
+    "api_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+    "success": true,
+    "identifier": "BobRossTheHappyPainter",
+    "totalFiles": 110,
+    "videoFiles": 1,
+    "availableFormats": {
+        "MPEG4": 1,
+        "Ogg Video": 1,
+        "Thumbnail": 102,
+        "Archive BitTorrent": 1,
+        "Metadata": 4,
+        "Item Tile": 1
+    },
+    "playlist": [
+        {
+            "file_ext": "mp4",
+            "sources": [
+                {
+                    "src": "https:\/\/archive.org\/download\/BobRossTheHappyPainter\/Bob+Ross+The+Happy+Painter.mp4",
+                    "type": "video\/mp4"
+                }
+            ],
+            "title": "Bob Ross The Happy Painter",
+            "originalTitle": "Bob Ross The Happy Painter.mp4",
+            "originalFormat": "MPEG4",
+            "fileName": "Bob Ross The Happy Painter.mp4",
+            "fileSize": "1128027380"
+        }
+    ],
+    "cached": false,
+    "processed_at": "2025-10-13T03:44:31+00:00",
+    "api_version": "1.0"
+}
